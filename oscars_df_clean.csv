@@ -1,0 +1,534 @@
+,Film,Oscar Year,Film Studio/Producer(s),Award,Year of Release,Movie Time,Movie Genre,IMDB Rating,IMDB Votes,Tomatometer Status,Tomatometer Rating,Tomatometer Count,Audience Status,Audience Rating,Audience Count,Tomatometer Top Critics Count,Tomatometer Fresh Critics Count,Tomatometer Rotten Critics Count
+0,Wings,1927/28,Famous Players-Lasky,Winner,1927,144,"Drama,Romance,War",7.5,"12,221",Certified-Fresh,93,46,Upright,78,3530,9,43,3
+1,7th Heaven,1927/28,Fox,Nominee,1927,110,"Drama,Romance",7.7,"3,439",Fresh,84,9,Upright,84,500,1,1,9
+2,The Racket,1927/28,The Caddo Company,Nominee,1928,84,"Crime,Drama,Film-Noir",6.7,"1,257",Fresh,100,6,Upright,72,100,1,6,0
+3,The Broadway Melody,1928/29,Metro-Goldwyn-Mayer,Winner,1929,100,"Drama,Musical,Romance",5.7,"6,890",Rotten,33,24,Spilled,21,1813,7,8,16
+4,Hollywood Revue,1928/29,Metro-Goldwyn-Mayer,Nominee,1929,130,"Comedy,Music",5.7,"2,004",Rotten,43,7,Spilled,22,100,3,3,4
+5,In Old Arizona,1928/29,Fox,Nominee,1928,95,Western,5.6,"1,019",Rotten,56,9,Spilled,38,356,2,5,4
+6,The Patriot,1928/29,Paramount Famous Lasky,Nominee,1928,113,"Drama,History,Thriller",7.4,18,Fresh,100,10,Spilled,50,100,4,10,0
+7,All Quiet on the Western Front,1929/30,Universal,Winner,1930,152,"Drama,War",8.1,"59,214",Certified-Fresh,98,81,Upright,89,10000,26,79,2
+8,The Big House,1929/30,Cosmopolitan,Nominee,1930,87,"Crime,Drama,Thriller",7.1,"2,079",Fresh,75,8,Upright,69,323,0,6,2
+9,Disraeli,1929/30,Warner Bros.,Nominee,1929,90,"Biography,Drama,History",6.2,"1,143",Fresh,83,6,Spilled,45,250,0,5,1
+10,The Divorcee,1929/30,Metro-Goldwyn-Mayer,Nominee,1930,84,"Romance,Drama",6.7,"2,982",Fresh,75,8,Upright,63,500,0,6,2
+11,The Love Parade,1929/30,Paramount Famous Lasky,Nominee,1929,107,"Comedy,Musical,Romance",7,"2,163",Fresh,100,6,Upright,78,250,2,6,0
+12,Cimarron,1930/31,RKO Radio,Winner,1931,123,"Drama,Western",5.9,"5,851",Rotten,50,24,Spilled,25,1514,6,12,12
+13,The Front Page,1930/31,The Caddo Company,Nominee,1931,101,"Comedy,Crime,Drama",6.8,"2,741",Fresh,87,15,Upright,61,1000,1,13,2
+14,Skippy,1930/31,Paramount Publix,Nominee,1931,85,"Comedy,Drama,Family",6.3,772,Fresh,86,7,Spilled,58,250,2,6,1
+15,Trader Horn,1930/31,Metro-Goldwyn-Mayer,Nominee,1931,122,"Action,Adventure,Drama",6.3,957,Fresh,100,8,Spilled,36,100,3,8,0
+16,Grand Hotel,1931/32,Metro-Goldwyn-Mayer,Winner,1932,112,"Drama,Romance",7.4,"18,314",Certified-Fresh,86,42,Upright,77,7014,10,36,6
+17,Arrowsmith,1931/32,Samuel Goldwyn Productions,Nominee,1931,108,Drama,6.2,"1,663",Fresh,89,9,Spilled,40,250,0,8,1
+18,The Champ,1931/32,Metro-Goldwyn-Mayer,Nominee,1931,86,"Drama,Sport",7.3,"3,003",Fresh,90,10,Upright,74,617,2,9,1
+19,Five Star Final,1931/32,First National,Nominee,1931,89,"Crime,Drama",7.3,"1,944",Fresh,91,11,Upright,74,250,4,10,1
+20,One Hour with You,1931/32,Paramount Publix,Nominee,1932,78,"Comedy,Musical,Romance",7.2,"2,317",Fresh,83,6,Upright,77,500,0,5,1
+21,Shanghai Express,1931/32,Paramount Publix,Nominee,1932,82,"Adventure,Drama,Romance",7.3,"8,325",Fresh,94,33,Upright,79,1000,10,31,2
+22,The Smiling Lieutenant,1931/32,Paramount Publix,Nominee,1931,93,"Comedy,Romance,Musical",7.2,"3,540",Fresh,88,8,Upright,69,250,3,7,1
+23,Cavalcade,1932/33,Fox,Winner,1933,112,"Drama,Romance,War",5.9,"4,961",Rotten,59,29,Spilled,26,1027,10,17,12
+24,42nd Street,1932/33,Warner Bros.,Nominee,1933,89,"Comedy,Drama,Musical",7.4,"11,342",Fresh,96,25,Upright,74,7561,4,24,1
+25,A Farewell to Arms,1932/33,Paramount,Nominee,1932,80,"Drama,Romance,War",6.5,"5,567",Fresh,93,14,Spilled,53,5697,2,14,1
+26,I Am a Fugitive from a Chain Gang,1932/33,Warner Bros.,Nominee,1932,92,"Crime,Drama,Film-Noir",8.2,"12,604",Fresh,96,27,Upright,91,2500,5,26,1
+27,Lady for a Day,1932/33,Columbia,Nominee,1933,96,"Comedy,Drama",7.4,"3,971",Fresh,100,13,Upright,79,500,1,13,0
+28,Little Women,1932/33,RKO Radio,Nominee,1933,115,"Drama,Family,Romance",7.2,"6,778",Fresh,94,16,Upright,78,9776,3,16,2
+29,The Private Life of Henry VIII,1932/33,London Films,Nominee,1933,97,"Biography,Comedy,Drama",7.1,"4,090",Fresh,100,16,Upright,74,1295,0,16,0
+30,She Done Him Wrong,1932/33,Paramount,Nominee,1933,66,"Comedy,Drama,History",6.4,"5,899",Fresh,91,22,Spilled,53,2240,4,20,2
+31,It Happened One Night,1934,Columbia,Winner,1934,105,"Comedy,Romance",8.1,"98,409",Certified-Fresh,98,60,Upright,93,33678,15,59,1
+32,The Barretts of Wimpole Street,1934,Metro-Goldwyn-Mayer,Nominee,1934,109,"Biography,Drama,Romance",7,"1,795",Fresh,78,9,Upright,69,335,3,7,2
+33,Cleopatra,1934,Paramount,Nominee,1934,100,"Biography,Drama,History",6.8,"3,678",Fresh,82,11,Upright,66,500,2,9,2
+34,Flirtation Walk,1934,First National,Nominee,1934,97,"Musical,Romance",5.7,700,Fresh,100,5,Spilled,25,100,2,5,0
+35,The Gay Divorcee,1934,RKO Radio,Nominee,1934,107,"Comedy,Musical,Romance",7.5,"7,455",Fresh,93,14,Upright,82,3378,0,13,1
+36,Here Comes the Navy,1934,Warner Bros.,Nominee,1934,87,"Comedy,Drama,Romance",6.3,940,Fresh,80,5,Spilled,39,250,2,4,1
+37,The House of Rothschild,1934,20th Century,Nominee,1934,88,"Biography,Drama,History",6.6,"1,127",Fresh,100,11,Spilled,51,100,4,11,0
+38,Imitation of Life,1934,Universal,Nominee,1934,111,"Drama,Romance",7.5,"4,423",Fresh,92,24,Upright,85,4562,7,22,2
+39,One Night of Love,1934,Columbia,Nominee,1934,84,"Music,Romance",5.7,577,Fresh,71,7,Spilled,48,100,2,5,2
+40,The Thin Man,1934,Metro-Goldwyn-Mayer,Nominee,1934,91,"Comedy,Crime,Mystery",8,"27,959",Fresh,97,39,Upright,93,12999,6,38,1
+41,Viva Villa!,1934,Metro-Goldwyn-Mayer,Nominee,1934,115,"Action,Biography,Romance",6.4,"1,277",Fresh,60,10,Spilled,50,250,1,6,4
+42,Mutiny on the Bounty,1935,Metro-Goldwyn-Mayer,Winner,1935,132,"Adventure,Biography,Drama",7.7,"21,805",Certified-Fresh,93,41,Upright,83,8061,9,38,3
+43,Alice Adams,1935,RKO Radio,Nominee,1935,99,"Comedy,Drama,Romance",6.9,"4,020",Fresh,94,17,Upright,71,2419,4,16,1
+44,Broadway Melody of 1936,1935,Metro-Goldwyn-Mayer,Nominee,1935,101,"Musical,Romance",6.8,"1,662",Fresh,89,9,Upright,76,250,0,9,1
+45,Captain Blood,1935,Cosmopolitan,Nominee,1935,119,"Action,Adventure,History",7.7,"13,708",Fresh,100,27,Upright,89,8194,4,27,0
+46,David Copperfield,1935,Metro-Goldwyn-Mayer,Nominee,1935,130,"Adventure,Drama,Romance",7.4,"4,069",Fresh,100,5,Upright,75,500,0,5,0
+47,The Informer,1935,RKO Radio,Nominee,1935,91,"Crime,Drama",7.4,"6,169",Fresh,94,16,Upright,77,1081,0,15,1
+48,The Lives of a Bengal Lancer,1935,Paramount,Nominee,1935,109,"Adventure,Drama,War",7.1,"2,813",Fresh,100,8,Upright,71,250,0,8,0
+49,A Midsummer Night's Dream,1935,Warner Bros.,Nominee,1935,133,"Comedy,Fantasy,Romance",6.9,"3,339",Fresh,91,11,Upright,62,1229,0,10,1
+50,Naughty Marietta,1935,Metro-Goldwyn-Mayer,Nominee,1935,105,"Drama,Musical,Romance",6.7,"1,307",Rotten,56,9,Upright,76,500,4,5,4
+51,Ruggles of Red Gap,1935,Paramount,Nominee,1935,90,"Comedy,Romance,Western",7.6,"3,874",Fresh,100,16,Upright,90,500,4,16,0
+52,Top Hat,1935,RKO Radio,Nominee,1935,101,"Comedy,Musical,Romance",7.8,"18,339",Certified-Fresh,100,42,Upright,91,9847,9,42,0
+53,The Great Ziegfeld,1936,Metro-Goldwyn-Mayer,Winner,1936,176,"Biography,Drama,Musical",6.7,"7,665",Fresh,62,34,Spilled,50,2778,7,21,13
+54,Anthony Adverse,1936,Warner Bros.,Nominee,1936,141,"Adventure,Drama,Romance",6.4,"1,706",Rotten,20,10,Spilled,51,250,4,2,8
+55,Dodsworth,1936,Samuel Goldwyn Productions,Nominee,1936,101,"Drama,Romance",7.8,"8,668",Fresh,90,20,Upright,86,1466,3,18,2
+56,Libeled Lady,1936,Metro-Goldwyn-Mayer,Nominee,1936,98,"Comedy,Romance",7.9,"7,509",Fresh,86,14,Upright,88,2696,0,12,2
+57,Mr. Deeds Goes to Town,1936,Columbia,Nominee,1936,115,"Comedy,Drama,Romance",7.9,"20,594",Fresh,90,21,Upright,86,9236,0,19,2
+58,Romeo and Juliet,1936,Metro-Goldwyn-Mayer,Nominee,1936,125,"Drama,Romance",6.5,"1,910",Fresh,78,9,Spilled,50,6,0,7,2
+59,San Francisco,1936,Metro-Goldwyn-Mayer,Nominee,1936,115,"Drama,Musical,Romance",7.2,"5,254",Fresh,100,11,Upright,70,1337,0,11,0
+60,The Story of Louis Pasteur,1936,Cosmopolitan,Nominee,1936,86,"Biography,Drama,History",7.3,"2,601",Fresh,100,9,Upright,74,250,2,9,0
+61,A Tale of Two Cities,1936,Metro-Goldwyn-Mayer,Nominee,1935,128,"Drama,History,Romance",7.8,"5,508",Fresh,92,13,Upright,84,2145,0,12,1
+62,Three Smart Girls,1936,Universal,Nominee,1936,84,"Comedy,Musical,Romance",6.7,"1,344",Fresh,86,7,Spilled,50,474,2,6,1
+63,The Life of Emile Zola,1937,Warner Bros.,Winner,1937,116,"Biography,Drama",7.2,"7,771",Fresh,82,33,Upright,73,2348,9,27,6
+64,The Awful Truth,1937,Columbia,Nominee,1937,90,"Comedy,Romance",7.7,"18,721",Fresh,93,29,Upright,87,7597,4,27,2
+65,Captains Courageous,1937,Metro-Goldwyn-Mayer,Nominee,1937,117,"Adventure,Drama,Family",8,"9,243",Fresh,94,18,Upright,89,3811,0,17,1
+66,Dead End,1937,Samuel Goldwyn Productions,Nominee,1937,93,"Crime,Drama,Film-Noir",7.3,"7,083",Fresh,91,11,Upright,76,2021,0,10,1
+67,The Good Earth,1937,Metro-Goldwyn-Mayer,Nominee,1937,138,"Drama,Romance",7.5,"4,753",Fresh,95,19,Upright,76,1100,4,18,1
+68,In Old Chicago,1937,20th Century-Fox,Nominee,1938,95,"Action,Drama,Musical",6.8,"2,233",Fresh,67,12,Spilled,54,1000,5,8,4
+69,Lost Horizon,1937,Columbia,Nominee,1937,132,"Adventure,Drama,Fantasy",7.7,"12,513",Fresh,93,14,Upright,83,5550,1,13,1
+70,Stage Door,1937,RKO Radio,Nominee,1937,92,"Comedy,Drama",7.8,"8,040",Fresh,96,23,Upright,87,4809,3,22,1
+71,A Star Is Born,1937,Selznick International Pictures,Nominee,1937,111,"Drama,Romance",7.3,"9,301",Fresh,100,20,Upright,78,2686,5,20,0
+72,The Adventures of Robin Hood,1938,Warner Bros.-First National,Nominee,1938,102,"Action,Adventure,Romance",7.9,"49,004",Certified-Fresh,100,48,Upright,89,33946,8,48,0
+73,Alexander's Ragtime Band,1938,20th Century-Fox,Nominee,1938,106,"Drama,Music,Musical",6.9,"2,042",Fresh,80,5,Spilled,46,1421,1,4,1
+74,Boys Town,1938,Metro-Goldwyn-Mayer,Nominee,1938,96,"Biography,Drama",7.3,"5,449",Fresh,90,20,Upright,81,4219,2,18,2
+75,The Citadel,1938,Metro-Goldwyn-Mayer,Nominee,1938,110,Drama,7.1,"2,047",Fresh,89,9,Upright,72,411,4,8,1
+76,Four Daughters,1938,Warner Bros.-First National,Nominee,1938,90,"Drama,Music,Romance",6.9,"1,881",Fresh,100,10,Upright,79,250,1,10,0
+77,Grand Illusion,1938,Realization D'Art Cinematographique,Nominee,1937,113,"Drama,War",8.1,"35,191",Certified-Fresh,97,68,Upright,92,10000,24,66,2
+78,Jezebel,1938,Warner Bros.,Nominee,1938,104,"Drama,Romance",7.5,"12,874",Fresh,95,21,Upright,82,5000,0,20,1
+79,Test Pilot,1938,Metro-Goldwyn-Mayer,Nominee,1938,119,"Drama,Romance",6.9,"2,323",Fresh,75,8,Upright,67,250,1,6,2
+80,Gone with the Wind,1939,Selznick International Pictures,Winner,1939,238,"Drama,History,Romance",8.1,"300,592",Certified-Fresh,90,102,Upright,92,250000,32,92,10
+81,Dark Victory,1939,Warner Bros.-First National,Nominee,1939,104,"Drama,Romance",7.5,"10,648",Fresh,88,24,Upright,81,5226,1,21,3
+82,"Goodbye, Mr. Chips",1939,Metro-Goldwyn-Mayer,Nominee,1939,114,"Drama,Romance",7.9,"10,164",Fresh,82,17,Upright,87,5661,0,14,3
+83,Love Affair,1939,RKO Radio,Nominee,1939,88,"Comedy,Drama,Romance",7.3,"4,857",Fresh,86,7,Upright,71,1666,0,6,1
+84,Mr. Smith Goes to Washington,1939,Columbia,Nominee,1939,129,"Comedy,Drama",8.1,"110,984",Certified-Fresh,96,45,Upright,94,45845,5,43,2
+85,Ninotchka,1939,Metro-Goldwyn-Mayer,Nominee,1939,110,"Comedy,Romance",7.9,"19,988",Fresh,97,35,Upright,89,6822,7,34,1
+86,Of Mice and Men,1939,Hal Roach (production company),Nominee,1939,106,"Adventure,Drama",7.9,"5,813",Fresh,100,14,Upright,85,7138,1,14,0
+87,Stagecoach,1939,Walter Wanger (production company),Nominee,1939,96,"Adventure,Drama,Western",7.9,"45,997",Certified-Fresh,100,45,Upright,86,14614,7,45,0
+88,The Wizard of Oz,1939,Metro-Goldwyn-Mayer,Nominee,1939,102,"Adventure,Family,Fantasy",8,"378,893",Certified-Fresh,98,120,Upright,89,876327,31,118,2
+89,Wuthering Heights,1939,Samuel Goldwyn Productions,Nominee,1939,104,"Drama,Romance",7.6,"17,314",Fresh,96,23,Upright,85,8786,1,22,1
+90,"All This, and Heaven Too",1940,Warner Bros.,Nominee,1940,141,"Drama,Romance",7.5,"4,728",Fresh,83,6,Upright,85,1048,3,5,1
+91,Foreign Correspondent,1940,Walter Wanger (production company),Nominee,1940,120,"Action,Romance,Thriller",7.5,"19,657",Fresh,95,39,Upright,81,6906,4,37,2
+92,The Grapes of Wrath,1940,20th Century-Fox,Nominee,1940,129,"Drama,History",8.1,"89,303",Certified-Fresh,100,48,Upright,88,24311,7,48,0
+93,The Great Dictator,1940,Charles Chaplin Productions,Nominee,1940,125,"Comedy,Drama,War",8.4,"212,446",Certified-Fresh,93,43,Upright,95,43702,10,40,3
+94,Kitty Foyle,1940,RKO Radio,Nominee,1940,108,"Drama,Romance",6.9,"3,495",Fresh,80,10,Upright,72,937,3,8,2
+95,The Letter,1940,Warner Bros.,Nominee,1940,95,"Crime,Drama,Film-Noir",7.6,"12,503",Fresh,100,13,Upright,82,3725,0,13,0
+96,Our Town,1940,Sol Lesser (production company),Nominee,1940,90,"Drama,Romance",6.6,"2,525",Fresh,86,7,Spilled,46,1291,0,6,1
+97,The Philadelphia Story,1940,Metro-Goldwyn-Mayer,Nominee,1940,112,"Comedy,Romance",7.9,"66,044",Certified-Fresh,100,62,Upright,93,47191,12,63,0
+98,How Green Was My Valley,1941,20th Century-Fox,Winner,1941,118,"Drama,Family",7.7,"22,753",Certified-Fresh,89,47,Upright,81,7950,9,42,5
+99,Blossoms in the Dust,1941,Metro-Goldwyn-Mayer,Nominee,1941,99,"Biography,Drama,Romance",6.9,"1,919",Rotten,33,9,Upright,72,379,3,3,6
+100,Citizen Kane,1941,Mercury,Nominee,1941,119,"Drama,Mystery",8.3,"420,959",Certified-Fresh,100,93,Upright,90,159199,23,93,0
+101,Here Comes Mr. Jordan,1941,Columbia,Nominee,1941,94,"Comedy,Fantasy,Romance",7.6,"6,154",Fresh,100,20,Upright,83,1120,0,20,0
+102,The Little Foxes,1941,Samuel Goldwyn Productions,Nominee,1941,116,"Drama,Romance",8,"11,254",Fresh,100,15,Upright,88,3522,0,15,0
+103,The Maltese Falcon,1941,Warner Bros.,Nominee,1941,100,"Crime,Film-Noir,Mystery",8,"152,988",Certified-Fresh,100,56,Upright,91,57852,9,56,0
+104,Sergeant York,1941,Warner Bros.,Nominee,1941,134,"Biography,Drama,History",7.7,"17,415",Fresh,86,22,Upright,87,5674,3,19,3
+105,Suspicion,1941,RKO Radio,Nominee,1941,99,"Film-Noir,Mystery,Thriller",7.4,"36,081",Fresh,97,33,Upright,78,14737,7,32,1
+106,Mrs. Miniver,1942,Metro-Goldwyn-Mayer,Winner,1942,134,"Drama,Romance,War",7.6,"16,879",Fresh,93,30,Upright,85,6063,9,28,2
+107,Kings Row,1942,Warner Bros.,Nominee,1942,127,"Drama,Mystery,Romance",7.5,"4,285",Fresh,100,16,Upright,76,1081,1,16,0
+108,The Magnificent Ambersons,1942,Mercury,Nominee,1942,88,"Drama,Romance",7.7,"23,662",Certified-Fresh,89,44,Upright,85,6468,14,39,5
+109,The Pride of the Yankees,1942,Samuel Goldwyn Productions,Nominee,1942,128,"Biography,Drama,Romance",7.7,"10,459",Fresh,93,29,Upright,89,6839,5,27,2
+110,Random Harvest,1942,Metro-Goldwyn-Mayer,Nominee,1942,126,"Adventure,Drama,Family",8,"7,331",Fresh,90,10,Upright,88,2805,0,9,1
+111,The Talk of the Town,1942,Columbia,Nominee,1942,118,"Comedy,Drama,Romance",7.5,"7,884",Fresh,94,17,Upright,84,3083,3,16,1
+112,Yankee Doodle Dandy,1942,Warner Bros.,Nominee,1942,126,"Biography,Drama,Music",7.7,"14,872",Fresh,90,29,Upright,83,8136,4,26,3
+113,Casablanca,1943,Warner Bros.,Winner,1942,102,"Drama,Romance,War",8.5,"541,023",Certified-Fresh,99,92,Upright,95,357518,23,91,1
+114,For Whom the Bell Tolls,1943,Paramount,Nominee,1943,170,"Adventure,Drama,History",6.9,"8,880",Fresh,71,14,Upright,69,40,0,10,4
+115,Heaven Can Wait,1943,20th Century-Fox,Nominee,1943,112,"Comedy,Drama,Fantasy",7.4,"10,272",Fresh,85,13,Upright,75,4380,2,11,2
+116,The Human Comedy,1943,Metro-Goldwyn-Mayer,Nominee,1943,117,"Comedy,Drama,Family",7,"2,044",Fresh,80,5,Upright,68,360,0,4,1
+117,In Which We Serve,1943,Two Cities Films,Nominee,1942,115,"Drama,War",7.2,"5,442",Fresh,89,18,Upright,76,861,4,16,2
+118,Madame Curie,1943,Metro-Goldwyn-Mayer,Nominee,1943,124,"Biography,Drama,Romance",7.2,"2,779",Fresh,86,7,Upright,67,495,0,6,1
+119,The More the Merrier,1943,Columbia,Nominee,1943,104,"Comedy,Romance,War",7.7,"6,264",Fresh,94,18,Upright,82,1310,4,17,1
+120,The Song of Bernadette,1943,20th Century-Fox,Nominee,1943,156,"Biography,Drama",7.6,"6,554",Fresh,87,15,Upright,80,3262,1,13,2
+121,Watch on the Rhine,1943,Warner Bros.,Nominee,1943,114,"Drama,Thriller",7.3,"4,246",Fresh,80,5,Upright,63,600,2,4,1
+122,Going My Way,1944,Paramount,Winner,1944,126,"Comedy,Drama,Music",7.1,"11,187",Fresh,81,31,Upright,75,5784,7,25,6
+123,Double Indemnity,1944,Paramount,Nominee,1944,107,"Crime,Drama,Film-Noir",8.3,"149,399",Certified-Fresh,97,64,Upright,95,35764,13,62,2
+124,Gaslight,1944,Metro-Goldwyn-Mayer,Nominee,1944,114,"Crime,Drama,Mystery",7.8,"26,296",Fresh,87,31,Upright,90,8527,6,27,4
+125,Wilson,1944,20th Century-Fox,Nominee,1944,154,"Biography,Drama,History",6.4,"1,525",Fresh,89,9,Spilled,43,250,4,8,1
+126,The Lost Weekend,1945,Paramount,Winner,1945,101,"Drama,Film-Noir",7.9,"35,261",Fresh,97,39,Upright,90,8866,9,38,1
+127,Anchors Aweigh,1945,Metro-Goldwyn-Mayer,Nominee,1945,140,"Comedy,Fantasy,Music",7.1,"8,298",Fresh,62,13,Upright,79,8284,4,8,5
+128,Mildred Pierce,1945,Warner Bros.,Nominee,1945,111,"Crime,Drama,Film-Noir",8,"24,288",Certified-Fresh,86,44,Upright,90,8234,9,38,6
+129,The Best Years of Our Lives,1946,Samuel Goldwyn Productions,Winner,1946,170,"Drama,Romance,War",8.1,"60,810",Certified-Fresh,97,60,Upright,93,10819,14,58,2
+130,It's a Wonderful Life,1946,Liberty Films,Nominee,1946,130,"Drama,Family,Fantasy",8.6,"420,975",Certified-Fresh,94,82,Upright,95,218883,16,77,5
+131,The Razor's Edge,1946,20th Century-Fox,Nominee,1946,145,"Drama,Romance",7.4,"5,770",Fresh,71,7,Upright,72,1905,0,5,2
+132,The Yearling,1946,Metro-Goldwyn-Mayer,Nominee,1946,128,"Drama,Family,Western",7.2,"5,658",Fresh,100,14,Upright,76,3770,0,14,0
+133,Gentleman's Agreement,1947,20th Century-Fox,Winner,1947,118,"Drama,Romance",7.2,"15,593",Certified-Fresh,76,45,Upright,78,5627,11,34,11
+134,The Bishop's Wife,1947,Samuel Goldwyn Productions,Nominee,1947,109,"Comedy,Drama,Fantasy",7.6,"15,790",Fresh,84,25,Upright,81,5000,8,21,4
+135,Crossfire,1947,RKO Radio,Nominee,1947,86,"Crime,Drama,Film-Noir",7.3,"8,030",Fresh,82,17,Upright,74,1885,5,14,3
+136,Great Expectations,1947,J. Arthur Rank-Cineguild,Nominee,1946,118,"Adventure,Drama,Mystery",7.8,"23,120",Fresh,100,29,Upright,88,5000,7,29,0
+137,Miracle on 34th Street,1947,20th Century-Fox,Nominee,1947,96,"Comedy,Drama,Family",7.9,"44,012",Certified-Fresh,96,47,Upright,87,47572,10,45,2
+138,Hamlet,1948,J. Arthur Rank-Two Cities Films,Winner,1948,154,Drama,7.6,"16,167",Certified-Fresh,95,40,Upright,80,7542,8,38,2
+139,Johnny Belinda,1948,Warner Bros.,Nominee,1948,102,Drama,7.8,"4,549",Fresh,89,9,Upright,88,1429,0,8,1
+140,The Red Shoes,1948,J. Arthur Rank-Archers,Nominee,1948,135,"Drama,Music,Romance",8.1,"32,804",Certified-Fresh,97,59,Upright,92,11766,16,57,2
+141,The Snake Pit,1948,20th Century-Fox,Nominee,1948,108,"Drama,Mystery",7.6,"7,232",Fresh,100,8,Upright,83,2656,2,8,0
+142,The Treasure of the Sierra Madre,1948,Warner Bros.,Nominee,1948,126,"Adventure,Drama,Western",8.2,"119,133",Certified-Fresh,100,49,Upright,93,26122,5,49,0
+143,All the King's Men,1949,Columbia,Winner,1949,110,"Drama,Film-Noir",7.5,"14,270",Certified-Fresh,95,42,Upright,78,4866,9,40,2
+144,Battleground,1949,Metro-Goldwyn-Mayer,Nominee,1949,118,"Action,Drama,History",7.5,"6,970",Fresh,75,8,Upright,82,2737,1,6,2
+145,A Letter to Three Wives,1949,20th Century-Fox,Nominee,1949,103,"Drama,Romance",7.7,"9,000",Fresh,94,18,Upright,86,3781,2,17,1
+146,Twelve O'Clock High,1949,20th Century-Fox,Nominee,1949,132,"Drama,War",7.7,"13,989",Fresh,96,25,Upright,87,6019,5,24,1
+147,All About Eve,1950,20th Century-Fox,Winner,1950,138,Drama,8.2,"125,426",Certified-Fresh,99,77,Upright,94,45248,22,76,1
+148,Born Yesterday,1950,Columbia,Nominee,1950,103,"Comedy,Drama,Romance",7.6,"10,597",Fresh,97,34,Upright,86,4780,6,33,1
+149,Father of the Bride,1950,Metro-Goldwyn-Mayer,Nominee,1950,92,"Comedy,Romance",7.2,"10,742",Fresh,90,31,Upright,74,13901,6,28,3
+150,King Solomon's Mines,1950,Metro-Goldwyn-Mayer,Nominee,1950,103,"Action,Adventure,Romance",6.8,"5,929",Fresh,92,12,Spilled,59,3242,0,11,1
+151,Sunset Boulevard,1950,Paramount,Nominee,1950,110,"Drama,Film-Noir",8.4,"210,129",Certified-Fresh,99,69,Upright,95,53464,12,68,1
+152,An American in Paris,1951,Arthur Freed,Winner,1951,114,"Drama,Musical,Romance",7.2,"31,953",Certified-Fresh,96,68,Upright,79,26460,14,65,3
+153,Decision Before Dawn,1951,Anatole Litvak and Frank McCarthy,Nominee,1951,119,"Drama,War",7.2,"2,596",Fresh,100,6,Upright,71,341,2,6,0
+154,A Place in the Sun,1951,George Stevens,Nominee,1951,122,"Drama,Romance",7.8,"21,429",Fresh,77,31,Upright,84,8530,9,24,7
+155,Quo Vadis,1951,Sam Zimbalist,Nominee,1951,171,"Biography,Drama,History",7.2,"14,371",Fresh,88,17,Upright,73,2500,7,15,2
+156,A Streetcar Named Desire,1951,Charles K. Feldman,Nominee,1951,122,Drama,8,"103,781",Certified-Fresh,98,60,Upright,90,55148,13,59,1
+157,The Greatest Show on Earth,1952,Cecil B. DeMille,Winner,1952,152,"Drama,Family,Romance",6.6,"13,797",Rotten,42,31,Spilled,54,6192,8,13,18
+158,High Noon,1952,Stanley Kramer,Nominee,1952,85,"Drama,Thriller,Western",8,"100,501",Certified-Fresh,97,58,Upright,89,25442,10,56,2
+159,Ivanhoe,1952,Pandro S. Berman,Nominee,1952,106,"Adventure,Drama,History",6.8,"8,627",Fresh,81,16,Upright,64,5038,3,13,3
+160,Moulin Rouge,1952,"John Huston, John Woolf and James Woolf",Nominee,1952,119,"Biography,Drama,Music",7.1,"5,284",Fresh,78,9,Upright,90,68249,1,7,2
+161,The Quiet Man,1952,John Ford and Merian C. Cooper,Nominee,1952,129,"Comedy,Drama,Romance",7.8,"36,499",Certified-Fresh,91,45,Upright,91,30417,8,41,4
+162,From Here to Eternity,1953,Buddy Adler,Winner,1953,118,"Drama,Romance,War",7.6,"45,045",Certified-Fresh,92,61,Upright,84,14883,16,56,5
+163,Julius Caesar,1953,John Houseman,Nominee,1953,120,"Biography,Drama,History",7.3,"11,012",Fresh,95,22,Upright,81,5248,6,21,1
+164,The Robe,1953,Frank Ross,Nominee,1953,135,"Drama,History",6.8,"9,876",Rotten,33,18,Upright,69,6018,4,6,12
+165,Roman Holiday,1953,William Wyler,Nominee,1953,118,"Comedy,Romance",8,"132,970",Certified-Fresh,97,59,Upright,93,63470,11,57,2
+166,Shane,1953,George Stevens,Nominee,1953,118,"Drama,Western",7.6,"38,752",Fresh,97,36,Upright,81,15548,5,35,1
+167,On the Waterfront,1954,Sam Spiegel,Winner,1954,108,"Crime,Drama,Thriller",8.1,"147,893",Certified-Fresh,99,72,Upright,95,52205,14,71,1
+168,The Caine Mutiny,1954,Stanley Kramer,Nominee,1954,124,"Drama,War",7.7,"26,649",Fresh,92,25,Upright,87,7557,4,23,2
+169,The Country Girl,1954,William Perlberg,Nominee,1954,104,"Drama,Music",7.3,"5,766",Fresh,86,7,Upright,77,3106,0,6,1
+170,Seven Brides for Seven Brothers,1954,Jack Cummings,Nominee,1954,102,"Comedy,Drama,Musical",7.4,"23,448",Fresh,88,26,Upright,87,54305,5,23,3
+171,Three Coins in the Fountain,1954,Sol C. Siegel,Nominee,1954,102,"Drama,Romance",6.3,"3,276",Fresh,60,10,Spilled,43,2021,3,6,4
+172,Marty,1955,Harold Hecht,Winner,1955,90,"Drama,Romance",7.7,"22,916",Certified-Fresh,98,42,Upright,87,6757,8,41,1
+173,Mister Roberts,1955,Leland Hayward,Nominee,1955,123,"Comedy,Drama,War",7.7,"16,057",Fresh,92,25,Upright,84,6728,4,23,2
+174,Picnic,1955,Fred Kohlmar,Nominee,1955,115,"Drama,Romance",7.1,"8,425",Rotten,50,8,Spilled,54,2519,1,4,4
+175,The Rose Tattoo,1955,Hal B. Wallis,Nominee,1955,117,"Comedy,Drama,Romance",7,"3,763",Fresh,67,6,Upright,74,1108,0,4,2
+176,Around the World in 80 Days,1956,Michael Todd,Winner,1956,175,"Adventure,Comedy,Family",6.8,"26,019",Fresh,69,42,Spilled,57,33440,9,29,13
+177,Friendly Persuasion,1956,William Wyler,Nominee,1956,137,"Drama,Romance,War",7.4,"6,784",Fresh,88,8,Upright,81,1251,0,7,1
+178,Giant,1956,George Stevens and Henry Ginsberg,Nominee,1956,201,"Drama,Western",7.6,"36,951",Certified-Fresh,95,44,Upright,87,24255,10,42,2
+179,The King and I,1956,Charles Brackett,Nominee,1956,133,"Biography,Drama,Musical",7.4,"24,685",Fresh,96,26,Upright,83,61003,4,25,1
+180,The Ten Commandments,1956,Cecil B. DeMille,Nominee,1956,220,"Adventure,Drama",7.9,"66,969",Fresh,89,37,Upright,87,60242,6,33,4
+181,The Bridge on the River Kwai,1957,Sam Spiegel,Winner,1957,161,"Adventure,Drama,War",8.1,"210,558",Certified-Fresh,95,59,Upright,93,54711,12,56,3
+182,Peyton Place,1957,Jerry Wald,Nominee,1957,157,"Drama,Romance",7.2,"5,707",Fresh,65,17,Upright,72,3106,3,11,6
+183,Witness for the Prosecution,1957,Arthur Hornblow Jr.,Nominee,1957,116,"Crime,Drama,Mystery",8.4,"115,545",Fresh,100,31,Upright,95,8968,5,31,0
+184,Gigi,1958,Arthur Freed,Winner,1958,115,"Comedy,Musical,Romance",6.7,"21,807",Fresh,81,37,Upright,74,20979,8,30,7
+185,Auntie Mame,1958,Jack L. Warner,Nominee,1958,143,"Comedy,Drama,Romance",7.9,"10,825",Fresh,93,15,Upright,93,8232,0,14,1
+186,Cat on a Hot Tin Roof,1958,Lawrence Weingarten,Nominee,1958,108,Drama,8,"47,222",Fresh,97,37,Upright,92,31748,5,36,1
+187,The Defiant Ones,1958,Stanley Kramer,Nominee,1958,96,"Crime,Drama",7.6,"14,358",Fresh,83,24,Upright,87,5151,4,20,4
+188,Separate Tables,1958,Harold Hecht,Nominee,1958,100,"Drama,Romance",7.4,"7,248",Fresh,69,16,Upright,76,1355,0,11,5
+189,Ben-Hur,1959,Sam Zimbalist,Winner,1959,212,"Adventure,Drama,History",8.1,"227,894",Certified-Fresh,86,50,Upright,89,106187,11,43,7
+190,Anatomy of a Murder,1959,Otto Preminger,Nominee,1959,161,"Crime,Drama,Mystery",8,"62,835",Certified-Fresh,100,47,Upright,90,12375,8,47,0
+191,The Diary of Anne Frank,1959,George Stevens,Nominee,1959,180,"Biography,Drama,Family",7.4,"12,413",Fresh,79,19,Upright,77,27953,3,15,4
+192,The Nun's Story,1959,Henry Blanke,Nominee,1959,149,Drama,7.6,"9,968",Fresh,94,16,Upright,82,5552,3,15,1
+193,Room at the Top,1959,John Woolf and James Woolf,Nominee,1959,115,"Drama,Romance",7.5,"5,746",Fresh,100,22,Upright,81,1000,3,22,0
+194,The Apartment,1960,Billy Wilder,Winner,1960,125,"Comedy,Drama,Romance",8.3,"171,390",Certified-Fresh,93,71,Upright,94,38188,17,66,5
+195,The Alamo,1960,John Wayne,Nominee,1960,162,"Adventure,Drama,History",6.8,"15,189",Rotten,52,21,Upright,63,7337,4,11,10
+196,The Sundowners,1960,Fred Zinnemann,Nominee,1960,133,"Adventure,Drama",7.1,"4,031",Fresh,75,12,Upright,62,589,2,9,3
+197,West Side Story,1961,Robert Wise,Winner,1961,153,"Crime,Drama,Musical",7.5,"101,270",Certified-Fresh,92,78,Upright,84,168990,17,72,6
+198,The Guns of Navarone,1961,Carl Foreman,Nominee,1961,158,"Action,Adventure,Drama",7.5,"47,296",Fresh,92,24,Upright,86,20751,0,22,2
+199,The Hustler,1961,Robert Rossen,Nominee,1961,134,"Drama,Sport",8,"78,871",Certified-Fresh,98,44,Upright,93,31217,9,43,1
+200,Judgment at Nuremberg,1961,Stanley Kramer,Nominee,1961,179,"Drama,War",8.2,"73,363",Fresh,92,24,Upright,93,5000,5,22,2
+201,Lawrence of Arabia,1962,Sam Spiegel,Winner,1962,228,"Adventure,Biography,Drama",8.3,"278,596",Certified-Fresh,98,88,Upright,93,75122,23,86,2
+202,The Longest Day,1962,Darryl F. Zanuck,Nominee,1962,178,"Action,Drama,History",7.8,"53,759",Fresh,87,23,Upright,90,42928,3,20,3
+203,The Music Man,1962,Morton DaCosta,Nominee,1962,151,"Comedy,Family,Musical",7.7,"16,665",Fresh,94,17,Upright,85,30549,0,16,1
+204,Mutiny on the Bounty,1962,Aaron Rosenberg,Winner,1962,178,"Adventure,Drama,History",7.2,"15,634",Fresh,68,19,Upright,73,4471,3,13,6
+205,To Kill a Mockingbird,1962,Alan J. Pakula,Nominee,1962,129,"Crime,Drama",8.3,"303,387",Certified-Fresh,93,67,Upright,92,100000,14,62,5
+206,Tom Jones,1963,Tony Richardson,Winner,1963,129,"Adventure,Comedy,History",6.5,"12,448",Fresh,82,39,Spilled,58,5491,9,32,7
+207,America America,1963,Elia Kazan,Nominee,1963,174,Drama,7.8,"5,215",Fresh,67,9,Upright,85,976,2,6,3
+208,Cleopatra,1963,Walter Wanger,Nominee,1963,192,"Biography,Drama,History",7,"31,027",Fresh,62,39,Upright,69,20541,10,24,15
+209,How the West Was Won,1963,Bernard Smith,Nominee,1962,164,Western,7.1,"19,741",Fresh,86,22,Upright,74,5000,6,19,3
+210,Lilies of the Field,1963,Ralph Nelson,Nominee,1963,94,Drama,7.6,"9,751",Fresh,91,23,Upright,86,6139,4,21,2
+211,My Fair Lady,1964,Jack L. Warner,Winner,1964,170,"Drama,Family,Musical",7.8,"90,361",Certified-Fresh,95,61,Upright,90,100000,18,58,3
+212,Becket,1964,Hal B. Wallis,Nominee,1964,148,"Biography,Drama,History",7.8,"14,231",Fresh,76,25,Upright,87,5611,9,19,6
+213,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,Nominee,1964,95,Comedy,8.4,"466,261",Certified-Fresh,98,93,Upright,94,100000,20,91,2
+214,Mary Poppins,1964,Walt Disney and Bill Walsh,Nominee,1964,139,"Comedy,Family,Fantasy",7.8,"163,118",Certified-Fresh,100,51,Upright,86,682486,9,51,0
+215,Zorba the Greek,1964,Michael Cacoyannis,Nominee,1964,142,"Comedy,Drama",7.7,"21,591",Fresh,80,10,Upright,86,7146,0,8,2
+216,The Sound of Music,1965,Robert Wise,Winner,1965,172,"Biography,Drama,Family",8,"215,374",Certified-Fresh,83,71,Upright,91,606397,14,59,12
+217,Darling,1965,Joseph Janni,Nominee,1965,128,"Drama,Romance",7.1,"6,468",Fresh,67,18,Upright,71,2184,3,12,6
+218,Doctor Zhivago,1965,Carlo Ponti,Nominee,1965,197,"Drama,Romance,War",8,"72,548",Certified-Fresh,84,49,Upright,88,45777,15,41,8
+219,Ship of Fools,1965,Stanley Kramer,Nominee,1965,149,"Drama,Romance,War",7.1,"5,725",Fresh,72,18,Upright,78,1178,4,13,5
+220,A Thousand Clowns,1965,Fred Coe,Nominee,1965,118,"Comedy,Drama,Romance",7.4,"3,349",Fresh,71,17,Upright,88,1000,4,12,5
+221,A Man for All Seasons,1966,Fred Zinnemann,Winner,1966,120,"Biography,Drama,History",7.7,"33,107",Certified-Fresh,83,42,Upright,87,9774,7,35,7
+222,Alfie,1966,Lewis Gilbert,Nominee,1966,114,"Comedy,Drama",7,"14,178",Fresh,96,27,Upright,76,14669,6,26,1
+223,"The Russians Are Coming, the Russians Are Coming",1966,Norman Jewison,Nominee,1966,126,"Comedy,War",7,"8,473",Fresh,86,21,Upright,75,4763,2,18,3
+224,The Sand Pebbles,1966,Robert Wise,Nominee,1966,182,"Adventure,Drama,Romance",7.6,"14,184",Fresh,89,18,Upright,88,5639,0,16,2
+225,Who's Afraid of Virginia Woolf?,1966,Ernest Lehman,Nominee,1966,131,Drama,8,"72,597",Certified-Fresh,95,43,Upright,91,21663,8,41,2
+226,In the Heat of the Night,1967,Walter Mirisch,Winner,1967,110,"Crime,Drama,Mystery",7.9,"70,719",Certified-Fresh,95,55,Upright,92,23185,11,52,3
+227,Bonnie and Clyde,1967,Warren Beatty,Nominee,1967,111,"Action,Biography,Crime",7.8,"107,803",Certified-Fresh,88,64,Upright,88,56566,12,56,8
+228,Doctor Dolittle,1967,Arthur P. Jacobs,Nominee,1967,152,"Adventure,Comedy,Family",6.2,"9,028",Rotten,29,21,Spilled,57,73397,4,6,15
+229,The Graduate,1967,Lawrence Turman,Nominee,1967,106,"Comedy,Drama,Romance",8,"261,921",Certified-Fresh,87,82,Upright,90,183610,20,71,11
+230,Guess Who's Coming to Dinner,1967,Stanley Kramer,Nominee,1967,108,"Comedy,Drama",7.8,"41,907",Fresh,70,37,Upright,85,38252,6,26,11
+231,Oliver!,1968,John Woolf,Winner,1968,153,"Drama,Family,Musical",7.4,"36,386",Fresh,82,34,Upright,81,56092,8,28,6
+232,Funny Girl,1968,Ray Stark,Nominee,1968,151,"Biography,Comedy,Drama",7.4,"21,174",Certified-Fresh,93,45,Upright,85,19884,14,42,3
+233,The Lion in Winter,1968,Martin Poll,Nominee,1968,134,"Biography,Drama,History",7.9,"30,196",Certified-Fresh,90,40,Upright,90,13105,10,36,4
+234,"Rachel, Rachel",1968,Paul Newman,Nominee,1968,101,"Drama,Romance",7.3,"3,213",Fresh,86,7,Upright,77,492,0,6,1
+235,Romeo and Juliet,1968,Anthony Havelock-Allan and John Brabourne,Nominee,1968,138,"Drama,Romance",7.6,"30,500",Fresh,95,37,Upright,74,65196,5,35,2
+236,Midnight Cowboy,1969,Jerome Hellman,Winner,1969,113,Drama,7.8,"106,077",Certified-Fresh,88,75,Upright,88,40013,16,66,9
+237,Anne of the Thousand Days,1969,Hal B. Wallis,Nominee,1969,145,"Biography,Drama,History",7.5,"7,138",Rotten,38,13,Upright,83,3281,5,5,8
+238,Butch Cassidy and the Sundance Kid,1969,John Foreman,Nominee,1969,110,"Biography,Crime,Drama",8,"208,400",Certified-Fresh,90,51,Upright,92,71183,8,46,5
+239,"Hello, Dolly!",1969,Ernest Lehman,Nominee,1969,146,"Adventure,Comedy,Musical",7.1,"14,420",Rotten,43,30,Upright,76,21196,5,13,17
+240,Z,1969,Jacques Perrin and Ahmed Rachedi,Nominee,1969,127,"Crime,Drama,History",8.3,"25,227",Certified-Fresh,93,46,Upright,93,6526,14,43,3
+241,Patton,1970,Frank McCarthy,Winner,1970,172,"Biography,Drama,War",7.9,"98,155",Certified-Fresh,94,49,Upright,93,43309,10,46,3
+242,Airport,1970,Ross Hunter,Nominee,1970,137,"Action,Drama,Thriller",6.6,"18,289",Fresh,73,15,Spilled,53,11263,1,11,4
+243,Five Easy Pieces,1970,Bob Rafelson and Richard Wechsler,Nominee,1970,98,Drama,7.5,"35,199",Certified-Fresh,88,50,Upright,84,13154,15,44,6
+244,Love Story,1970,Howard G. Minsky,Nominee,1970,100,"Drama,Romance",6.9,"32,681",Fresh,68,25,Upright,75,35290,5,17,8
+245,M*A*S*H,1970,Ingo Preminger,Nominee,1970,116,"Comedy,Drama,War",7.5,"69,897",Certified-Fresh,87,53,Upright,83,53152,10,46,7
+246,The French Connection,1971,Philip D'Antoni,Winner,1971,104,"Action,Crime,Drama",7.7,"115,341",Certified-Fresh,98,60,Upright,87,44341,12,59,1
+247,A Clockwork Orange,1971,Stanley Kubrick,Nominee,1971,136,"Crime,Drama,Sci-Fi",8.3,"783,346",Certified-Fresh,88,64,Upright,93,436890,14,56,8
+248,Fiddler on the Roof,1971,Norman Jewison,Nominee,1971,181,"Drama,Family,Musical",8,"41,233",Certified-Fresh,83,41,Upright,92,52560,9,34,7
+249,The Last Picture Show,1971,Stephen J. Friedman,Nominee,1971,118,"Drama,Romance",8,"44,843",Certified-Fresh,100,57,Upright,90,14148,15,57,0
+250,Nicholas and Alexandra,1971,Sam Spiegel,Nominee,1971,183,"Biography,Drama,History",7.2,"4,671",Fresh,67,15,Upright,78,1674,6,10,5
+251,The Godfather,1972,Albert S. Ruddy,Winner,1972,175,"Crime,Drama",9.2,"1,697,396",Certified-Fresh,98,99,Upright,98,733939,24,97,2
+252,Cabaret,1972,Cy Feuer,Nominee,1972,124,"Drama,Music,Musical",7.8,"51,698",Certified-Fresh,93,43,Upright,87,36098,8,40,3
+253,Deliverance,1972,John Boorman,Nominee,1972,109,"Adventure,Drama,Thriller",7.7,"102,934",Certified-Fresh,89,63,Upright,82,49424,6,56,7
+254,The Emigrants,1972,Bengt Forslund,Nominee,1971,151,"Drama,History",8,"6,121",Certified-Fresh,93,14,Upright,87,500,4,13,1
+255,Sounder,1972,Robert B. Radnitz,Nominee,1972,105,"Drama,Family",7.6,"3,920",Fresh,90,21,Upright,77,1000,6,19,2
+256,The Sting,1973,"Tony Bill, Michael Phillips, and Julia Phillips",Winner,1973,129,"Comedy,Crime,Drama",8.3,"249,856",Certified-Fresh,94,63,Upright,95,61731,10,59,4
+257,American Graffiti,1973,Francis Ford Coppola and Gary Kurtz,Nominee,1973,110,"Comedy,Drama",7.4,"85,117",Certified-Fresh,96,52,Upright,84,64618,7,50,2
+258,Cries and Whispers,1973,Ingmar Bergman,Nominee,1972,91,Drama,8.1,"32,122",Fresh,90,30,Upright,91,9251,6,27,3
+259,The Exorcist,1973,William Peter Blatty,Nominee,1973,122,Horror,8,"375,156",Certified-Fresh,83,81,Upright,87,420304,19,67,14
+260,A Touch of Class,1973,Melvin Frank,Nominee,1973,106,"Comedy,Romance",6.5,"2,991",Fresh,83,12,Upright,64,2032,1,10,2
+261,The Godfather Part II,1974,"Francis Ford Coppola, Gray Frederickson, and Fred Roos",Winner,1974,202,"Crime,Drama",9,"1,178,981",Certified-Fresh,96,114,Upright,97,250000,35,109,5
+262,Chinatown,1974,Robert Evans,Nominee,1974,130,"Drama,Mystery,Thriller",8.2,"308,349",Certified-Fresh,99,75,Upright,93,77911,15,74,1
+263,The Conversation,1974,Francis Ford Coppola,Nominee,1974,113,"Drama,Mystery,Thriller",7.8,"105,312",Certified-Fresh,96,55,Upright,90,35156,8,53,2
+264,Lenny,1974,Marvin Worth,Nominee,1974,111,"Biography,Drama",7.6,"15,444",Fresh,88,25,Upright,88,6547,1,22,3
+265,The Towering Inferno,1974,Irwin Allen,Nominee,1974,165,"Action,Drama,Thriller",7,"41,582",Fresh,69,32,Upright,72,28338,7,22,10
+266,One Flew Over the Cuckoo's Nest,1975,Michael Douglas and Saul Zaentz,Winner,1975,133,Drama,8.7,"950,833",Certified-Fresh,94,80,Upright,96,279760,14,75,5
+267,Barry Lyndon,1975,Stanley Kubrick,Nominee,1975,185,"Adventure,Drama,History",8.1,"157,491",Certified-Fresh,91,74,Upright,92,45079,16,67,7
+268,Dog Day Afternoon,1975,Martin Bregman and Martin Elfand,Nominee,1975,125,"Biography,Crime,Drama",8,"245,162",Certified-Fresh,96,45,Upright,90,110209,8,43,2
+269,Jaws,1975,Richard D. Zanuck and David Brown,Nominee,1975,124,"Adventure,Thriller",8,"563,056",Certified-Fresh,98,88,Upright,90,944601,21,86,2
+270,Nashville,1975,Robert Altman,Nominee,1975,160,"Comedy,Drama,Music",7.7,"25,084",Certified-Fresh,90,62,Upright,84,10086,14,56,6
+271,Rocky,1976,Irwin Winkler and Robert Chartoff,Winner,1976,120,"Drama,Sport",8.1,"537,813",Certified-Fresh,94,65,Upright,69,33403994,11,61,4
+272,All the President's Men,1976,Walter Coblenz,Nominee,1976,138,"Biography,Drama,History",8,"109,033",Certified-Fresh,94,63,Upright,92,50300,9,59,4
+273,Network,1976,Howard Gottfried,Nominee,1976,121,Drama,8.1,"151,780",Certified-Fresh,91,68,Upright,93,36359,11,62,6
+274,Taxi Driver,1976,Michael Phillips and Julia Phillips,Nominee,1976,114,"Crime,Drama",8.2,"758,393",Certified-Fresh,96,92,Upright,93,260593,19,88,4
+275,Annie Hall,1977,Charles H. Joffe,Winner,1977,93,"Comedy,Romance",8,"257,550",Certified-Fresh,98,82,Upright,92,153745,18,80,2
+276,The Goodbye Girl,1977,Ray Stark,Nominee,1977,111,"Comedy,Drama,Romance",7.4,"13,292",Fresh,84,19,Upright,84,7479,1,16,3
+277,Star Wars,1977,Gary Kurtz,Nominee,1977,121,"Action,Adventure,Fantasy",8.6,"1,272,908",Certified-Fresh,92,132,Upright,96,250000,50,122,10
+278,The Turning Point,1977,Herbert Ross and Arthur Laurents,Nominee,1977,119,"Drama,Romance",6.9,"4,457",Fresh,62,27,Upright,67,2500,6,17,10
+279,The Deer Hunter,1978,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",Winner,1978,183,"Drama,War",8.1,"323,543",Certified-Fresh,93,76,Upright,92,103489,17,71,5
+280,Heaven Can Wait,1978,Warren Beatty,Nominee,1978,101,"Comedy,Fantasy,Romance",6.9,"19,822",Certified-Fresh,88,41,Upright,68,13232,8,36,5
+281,Midnight Express,1978,Alan Marshall and David Puttnam,Nominee,1978,121,"Biography,Crime,Drama",7.6,"76,311",Fresh,96,26,Upright,89,31089,2,25,1
+282,Kramer vs. Kramer,1979,Stanley R. Jaffe,Winner,1979,105,Drama,7.8,"138,582",Certified-Fresh,88,52,Upright,89,43464,14,46,6
+283,Apocalypse Now,1979,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",Nominee,1979,147,"Drama,Mystery,War",8.4,"627,726",Certified-Fresh,98,95,Upright,94,286037,25,93,2
+284,Breaking Away,1979,Peter Yates,Nominee,1979,101,"Comedy,Drama,Romance",7.7,"22,594",Fresh,95,37,Upright,88,9343,6,35,2
+285,Ordinary People,1980,Ronald L. Schwary,Winner,1980,124,Drama,7.7,"49,328",Certified-Fresh,89,54,Upright,88,23217,11,48,6
+286,Coal Miner's Daughter,1980,Bernard Schwartz,Nominee,1980,124,"Biography,Drama,Music",7.5,"17,579",Fresh,86,22,Upright,86,36305,7,19,3
+287,The Elephant Man,1980,Jonathan Sanger,Nominee,1980,124,"Biography,Drama",8.1,"229,693",Certified-Fresh,92,53,Upright,93,64544,10,49,4
+288,Raging Bull,1980,Irwin Winkler and Robert Chartoff,Nominee,1980,129,"Biography,Drama,Sport",8.2,"334,550",Certified-Fresh,93,74,Upright,93,131407,19,69,5
+289,Tess,1980,Claude Berri and Timothy Burrill,Nominee,1979,186,"Drama,Romance",7.3,"15,999",Fresh,81,26,Upright,78,6331,6,21,5
+290,Chariots of Fire,1981,David Puttnam,Winner,1981,125,"Biography,Drama,Sport",7.2,"57,292",Certified-Fresh,82,73,Upright,80,37166,19,60,13
+291,Atlantic City,1981,Denis Héroux,Nominee,1980,104,"Crime,Drama,Romance",7.3,"16,039",Fresh,100,33,Upright,77,5228,7,33,0
+292,On Golden Pond,1981,Bruce Gilbert,Nominee,1981,109,Drama,7.6,"29,276",Fresh,93,29,Upright,87,20566,8,27,2
+293,Raiders of the Lost Ark,1981,Frank Marshall,Nominee,1981,115,"Action,Adventure",8.4,"914,188",Certified-Fresh,95,80,Upright,96,826663,19,76,4
+294,Gandhi,1982,Richard Attenborough,Winner,1982,191,"Biography,Drama,History",8,"223,282",Certified-Fresh,85,61,Upright,92,49831,9,52,9
+295,E.T. the Extra-Terrestrial,1982,Steven Spielberg and Kathleen Kennedy,Nominee,1982,115,"Family,Sci-Fi",7.8,"386,073",Certified-Fresh,99,136,Upright,72,250000,44,134,2
+296,Missing,1982,Edward Lewis and Mildred Lewis,Nominee,1982,122,"Biography,Drama,History",7.7,"20,689",Fresh,94,33,Upright,85,5000,5,31,2
+297,Tootsie,1982,Sydney Pollack and Dick Richards,Nominee,1982,116,"Comedy,Drama,Romance",7.4,"101,492",Certified-Fresh,90,51,Upright,81,58527,9,46,5
+298,The Verdict,1982,Richard D. Zanuck and David Brown,Nominee,1982,129,Drama,7.7,"37,826",Fresh,88,33,Upright,88,10381,6,29,4
+299,Terms of Endearment,1983,James L. Brooks,Winner,1983,132,"Comedy,Drama",7.4,"57,538",Certified-Fresh,78,54,Upright,83,36329,11,42,12
+300,The Big Chill,1983,Michael Shamberg,Nominee,1983,105,"Comedy,Drama",7.2,"34,895",Fresh,68,38,Upright,77,22301,8,26,12
+301,The Dresser,1983,Peter Yates,Nominee,1983,118,Drama,7.6,"5,072",Fresh,100,14,Upright,87,1802,1,14,0
+302,The Right Stuff,1983,Irwin Winkler and Robert Chartoff,Nominee,1983,193,"Adventure,Biography,Drama",7.8,"59,265",Certified-Fresh,96,51,Upright,90,10000,14,49,2
+303,Tender Mercies,1983,Philip S. Hobel,Nominee,1983,92,"Drama,Music",7.4,"10,060",Fresh,84,25,Upright,82,3613,1,21,4
+304,Amadeus,1984,Saul Zaentz,Winner,1984,160,"Biography,Drama,History",8.3,"381,101",Certified-Fresh,93,99,Upright,95,180143,26,92,7
+305,The Killing Fields,1984,David Puttnam,Nominee,1984,141,"Biography,Drama,History",7.8,"53,545",Certified-Fresh,93,43,Upright,92,23126,8,40,3
+306,A Passage to India,1984,John Brabourne and Richard B. Goodwin,Nominee,1984,164,"Adventure,Drama,History",7.3,"18,017",Fresh,76,25,Upright,78,6936,5,19,6
+307,Places in the Heart,1984,Arlene Donovan,Nominee,1984,111,Drama,7.4,"11,271",Fresh,89,38,Upright,83,6741,11,34,4
+308,A Soldier's Story,1984,"Norman Jewison, Ronald L. Schwary, and Patrick Palmer",Nominee,1984,101,"Crime,Drama,Mystery",7.2,"9,570",Fresh,90,20,Upright,81,6506,3,18,2
+309,Out of Africa,1985,Sydney Pollack,Winner,1985,161,"Biography,Drama,Romance",7.2,"76,084",Rotten,59,54,Upright,83,40320,17,32,22
+310,The Color Purple,1985,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones",Nominee,1985,154,Drama,7.8,"82,027",Fresh,81,31,Upright,94,180874,2,25,6
+311,Kiss of the Spider Woman,1985,David Weisman,Nominee,1985,120,Drama,7.4,"15,003",Fresh,87,30,Upright,81,7183,4,26,4
+312,Prizzi's Honor,1985,John Foreman,Nominee,1985,130,"Comedy,Crime,Drama",6.7,"23,681",Fresh,87,38,Upright,62,5000,5,33,5
+313,Witness,1985,Edward S. Feldman,Nominee,1985,112,"Crime,Drama,Romance",7.4,"90,252",Certified-Fresh,93,41,Upright,80,46814,10,38,3
+314,Platoon,1986,Arnold Kopelson,Winner,1986,120,"Drama,War",8.1,"394,151",Certified-Fresh,88,67,Upright,93,239850,18,59,8
+315,Children of a Lesser God,1986,Burt Sugarman and Patrick J. Palmer,Nominee,1986,119,"Drama,Romance",7.2,"15,807",Fresh,82,33,Upright,79,8543,8,27,6
+316,Hannah and Her Sisters,1986,Robert Greenhut,Nominee,1986,107,"Comedy,Drama",7.9,"69,273",Certified-Fresh,91,56,Upright,90,31072,15,51,5
+317,The Mission,1986,Fernando Ghia and David Puttnam,Nominee,1986,125,"Adventure,Drama,History",7.4,"58,975",Fresh,64,25,Upright,87,38896,7,16,9
+318,A Room with a View,1986,Ismail Merchant,Nominee,1985,117,"Drama,Romance",7.3,"41,517",Fresh,100,35,Upright,85,25000,8,35,0
+319,The Last Emperor,1987,Jeremy Thomas,Winner,1987,163,"Biography,Drama,History",7.7,"98,273",Certified-Fresh,89,72,Upright,88,39918,17,64,8
+320,Broadcast News,1987,James L. Brooks,Nominee,1987,133,"Comedy,Drama,Romance",7.2,"28,908",Certified-Fresh,98,51,Upright,79,11001,11,50,1
+321,Fatal Attraction,1987,Stanley R. Jaffe and Sherry Lansing,Nominee,1987,119,"Drama,Thriller",6.9,"80,634",Certified-Fresh,76,54,Upright,72,53027,9,41,13
+322,Hope and Glory,1987,John Boorman,Nominee,1987,113,"Comedy,Drama,Romance",7.3,"13,104",Fresh,95,21,Upright,82,5000,2,20,1
+323,Moonstruck,1987,Patrick J. Palmer and Norman Jewison,Nominee,1987,102,"Comedy,Drama,Romance",7.1,"54,964",Certified-Fresh,93,61,Upright,81,44806,15,58,4
+324,Rain Man,1988,Mark Johnson,Winner,1988,133,Drama,8,"488,860",Certified-Fresh,89,80,Upright,90,314120,17,71,9
+325,The Accidental Tourist,1988,"Lawrence Kasdan, Charles Okun, and Michael Grillo",Nominee,1988,121,"Drama,Romance",6.8,"15,488",Fresh,81,32,Upright,60,6208,2,26,6
+326,Dangerous Liaisons,1988,Norma Heyman and Hank Moonjean,Nominee,1988,119,"Drama,Romance",7.6,"66,909",Fresh,93,30,Upright,83,46589,8,28,2
+327,Mississippi Burning,1988,Frederick Zollo and Robert F. Colesberry,Nominee,1988,128,"Crime,Drama,History",7.8,"94,171",Fresh,84,25,Upright,90,39455,6,21,4
+328,Working Girl,1988,Douglas Wick,Nominee,1988,113,"Comedy,Drama,Romance",6.8,"54,343",Certified-Fresh,84,44,Upright,67,33603,8,37,7
+329,Driving Miss Daisy,1989,Richard D. Zanuck and Lili Fini Zanuck,Winner,1989,99,Drama,7.4,"104,806",Certified-Fresh,82,65,Upright,81,50000,21,53,12
+330,Born on the Fourth of July,1989,A. Kitman Ho and Oliver Stone,Nominee,1989,145,"Biography,Drama,War",7.2,"101,778",Certified-Fresh,85,48,Upright,76,59360,8,41,7
+331,Dead Poets Society,1989,"Steven Haft, Paul Junger Witt, and Tony Thomas",Nominee,1989,128,"Comedy,Drama",8.1,"446,811",Certified-Fresh,84,57,Upright,92,307114,10,48,9
+332,Field of Dreams,1989,Lawrence Gordon and Charles Gordon,Nominee,1989,107,"Drama,Family,Fantasy",7.5,"113,841",Certified-Fresh,87,60,Upright,86,192920,13,52,8
+333,My Left Foot,1989,Noel Pearson,Nominee,1989,103,"Biography,Drama",7.9,"71,014",Certified-Fresh,98,41,Upright,92,26763,9,40,1
+334,Dances with Wolves,1990,Jim Wilson and Kevin Costner,Winner,1990,181,"Adventure,Drama,Western",8,"249,524",Certified-Fresh,83,76,Upright,87,100000,22,63,13
+335,Awakenings,1990,Walter Parkes and Lawrence Lasker,Nominee,1990,121,"Biography,Drama",7.8,"132,136",Fresh,88,33,Upright,89,55182,4,29,4
+336,Ghost,1990,Lisa Weinstein,Nominee,1990,127,"Drama,Fantasy,Romance",7.1,"204,848",Certified-Fresh,74,74,Upright,80,469588,18,55,19
+337,The Godfather Part III,1990,Francis Ford Coppola,Nominee,1990,162,"Crime,Drama",7.6,"373,892",Fresh,68,63,Upright,61,250000,15,43,20
+338,Goodfellas,1990,Irwin Winkler,Nominee,1990,146,"Biography,Crime,Drama",8.7,"1,065,109",Certified-Fresh,96,103,Upright,97,250000,33,99,4
+339,The Silence of the Lambs,1991,"Edward Saxon, Kenneth Utt, and Ron Bozman",Winner,1991,118,"Crime,Drama,Thriller",8.6,"1,326,186",Certified-Fresh,96,101,Upright,95,847028,28,97,4
+340,Beauty and the Beast,1991,Don Hahn,Nominee,1991,84,"Animation,Family,Fantasy",8,"427,333",Certified-Fresh,94,117,Upright,92,760077,32,110,7
+341,Bugsy,1991,"Mark Johnson, Barry Levinson and Warren Beatty",Nominee,1991,136,"Biography,Crime,Drama",6.8,"27,635",Certified-Fresh,85,60,Upright,69,10228,16,51,9
+342,JFK,1991,A. Kitman Ho and Oliver Stone,Nominee,1991,189,"Drama,History,Thriller",8,"147,893",Certified-Fresh,84,63,Upright,88,62583,13,53,10
+343,The Prince of Tides,1991,Barbra Streisand and Andrew S. Karsch,Nominee,1991,132,"Drama,Romance",6.7,"17,342",Fresh,69,32,Upright,70,9233,9,22,10
+344,Unforgiven,1992,Clint Eastwood,Winner,1992,130,"Drama,Western",8.2,"390,280",Certified-Fresh,96,106,Upright,93,122729,28,102,4
+345,The Crying Game,1992,Stephen Woolley,Nominee,1992,112,"Crime,Drama,Romance",7.3,"53,289",Certified-Fresh,94,67,Upright,78,31834,19,63,4
+346,A Few Good Men,1992,"David Brown, Rob Reiner, and Andrew Scheinman",Nominee,1992,138,"Drama,Thriller",7.7,"245,903",Certified-Fresh,83,64,Upright,89,325423,18,53,11
+347,Howards End,1992,Ismail Merchant,Nominee,1992,142,"Drama,Romance",7.4,"30,508",Certified-Fresh,94,66,Upright,82,13673,19,62,4
+348,Scent of a Woman,1992,Martin Brest,Nominee,1992,156,Drama,8,"277,333",Certified-Fresh,89,44,Upright,92,119250,9,39,5
+349,Schindler's List,1993,"Steven Spielberg, Gerald R. Molen, and Branko Lustig",Winner,1993,195,"Biography,Drama,History",8.9,"1,261,563",Certified-Fresh,97,100,Upright,97,411608,24,97,3
+350,The Fugitive,1993,Arnold Kopelson,Nominee,1993,130,"Action,Crime,Drama",7.8,"278,006",Certified-Fresh,96,77,Upright,89,267812,19,74,3
+351,In the Name of the Father,1993,Jim Sheridan,Nominee,1993,133,"Biography,Crime,Drama",8.1,"165,134",Certified-Fresh,94,50,Upright,95,41328,17,47,3
+352,The Piano,1993,Jan Chapman,Nominee,1993,121,"Drama,Music,Romance",7.6,"81,749",Certified-Fresh,92,61,Upright,86,48469,15,56,5
+353,The Remains of the Day,1993,"Mike Nichols, John Calley, and Ismail Merchant",Nominee,1993,134,"Drama,Romance",7.8,"69,613",Certified-Fresh,95,42,Upright,89,24343,10,40,2
+354,Forrest Gump,1994,"Wendy Finerman, Steve Tisch, and Steve Starkey",Winner,1994,142,"Drama,Romance",8.8,"1,895,991",Fresh,71,103,Upright,95,1244237,30,73,30
+355,Four Weddings and a Funeral,1994,Duncan Kenworthy,Nominee,1994,117,"Comedy,Drama,Romance",7.1,"145,046",Certified-Fresh,96,69,Upright,74,185024,17,66,3
+356,Pulp Fiction,1994,Lawrence Bender,Nominee,1994,154,"Crime,Drama",8.9,"1,900,918",Certified-Fresh,92,106,Upright,96,1127813,32,97,9
+357,Quiz Show,1994,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford",Nominee,1994,133,"Biography,Drama,History",7.5,"66,948",Certified-Fresh,96,56,Upright,87,31595,15,54,2
+358,The Shawshank Redemption,1994,Niki Marvin,Nominee,1994,142,Drama,9.3,"2,452,594",Certified-Fresh,91,75,Upright,98,886485,19,68,7
+359,Braveheart,1995,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",Winner,1995,178,"Biography,Drama,History",8.3,"986,016",Certified-Fresh,78,82,Upright,85,32708456,27,64,18
+360,Apollo 13,1995,Brian Grazer,Nominee,1995,140,"Adventure,Drama,History",7.6,"279,684",Certified-Fresh,96,92,Upright,87,432986,31,88,4
+361,Babe,1995,"Bill Miller, George Miller, and Doug Mitchell",Nominee,1995,91,"Comedy,Drama,Family",6.8,"120,428",Certified-Fresh,97,70,Upright,67,508807,21,68,2
+362,Sense and Sensibility,1995,Lindsay Doran,Nominee,1995,136,"Drama,Romance",7.7,"108,657",Certified-Fresh,97,64,Upright,90,100000,20,62,2
+363,The English Patient,1996,Saul Zaentz,Winner,1996,162,"Drama,Romance,War",7.4,"183,677",Certified-Fresh,85,88,Upright,83,81711,31,75,13
+364,Fargo,1996,Ethan Coen,Nominee,1996,98,"Crime,Drama,Thriller",8.1,"641,314",Certified-Fresh,94,96,Upright,93,234273,33,90,6
+365,Jerry Maguire,1996,"James L. Brooks, Laurence Mark, Richard Sakai, and Cameron Crowe",Nominee,1996,139,"Comedy,Drama,Romance",7.3,"251,072",Certified-Fresh,84,87,Upright,79,250000,32,73,14
+366,Shine,1996,Jane Scott,Nominee,1996,105,"Biography,Drama,Music",7.7,"52,751",Certified-Fresh,91,44,Upright,90,30884,11,40,4
+367,Titanic,1997,James Cameron and Jon Landau,Winner,1997,194,"Drama,Romance",7.8,"1,089,044",Certified-Fresh,89,192,Upright,69,35797635,62,171,21
+368,As Good as It Gets,1997,"James L. Brooks, Bridget Johnson, and Kristi Zea",Nominee,1997,139,"Comedy,Drama,Romance",7.7,"285,908",Certified-Fresh,85,79,Upright,86,378698,22,67,12
+369,The Full Monty,1997,Uberto Pasolini,Nominee,1997,91,"Comedy,Drama",7.2,"102,282",Certified-Fresh,96,50,Upright,79,180109,10,48,2
+370,Good Will Hunting,1997,Lawrence Bender,Nominee,1997,126,"Drama,Romance",8.3,"896,929",Certified-Fresh,97,79,Upright,94,364798,21,77,2
+371,L.A. Confidential,1997,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",Nominee,1997,138,"Crime,Drama,Mystery",8.2,"550,162",Certified-Fresh,99,114,Upright,94,150735,33,113,1
+372,Shakespeare in Love,1998,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",Winner,1998,123,"Comedy,Drama,History",7.1,"218,538",Certified-Fresh,92,141,Upright,80,226989,44,130,11
+373,Elizabeth,1998,"Alison Owen, Eric Fellner and Tim Bevan",Nominee,1998,124,"Biography,Drama,History",7.4,"95,572",Certified-Fresh,82,62,Upright,86,63472,13,51,11
+374,Life Is Beautiful,1998,Elda Ferri and Gianluigi Braschi,Nominee,1997,116,"Comedy,Drama,Romance",8.6,"649,390",Certified-Fresh,80,87,Upright,96,100000,22,70,17
+375,Saving Private Ryan,1998,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",Nominee,1998,169,"Drama,War",8.6,"1,287,001",Certified-Fresh,93,142,Upright,95,993261,42,132,10
+376,The Thin Red Line,1998,"Robert Michael Geisler, John Roberdeau, and Grant Hill",Nominee,1998,170,"Drama,War",7.6,"179,626",Certified-Fresh,80,102,Upright,80,148681,27,82,20
+377,American Beauty,1999,Bruce Cohen and Dan Jinks,Winner,1999,122,Drama,8.3,"1,101,496",Certified-Fresh,87,190,Upright,93,660578,48,165,25
+378,The Cider House Rules,1999,Richard N. Gladstein,Nominee,1999,126,"Drama,Romance",7.4,"95,629",Fresh,71,112,Upright,77,53501,26,80,32
+379,The Green Mile,1999,Frank Darabont and David Valdes,Nominee,1999,189,"Crime,Drama,Fantasy",8.6,"1,198,434",Certified-Fresh,78,134,Upright,94,813775,35,105,29
+380,The Insider,1999,Pieter Jan Brugge and Michael Mann,Nominee,1999,157,"Biography,Drama,Thriller",7.8,"165,522",Certified-Fresh,96,137,Upright,90,59195,34,132,5
+381,The Sixth Sense,1999,"Frank Marshall, Kathleen Kennedy, and Barry Mendel",Nominee,1999,107,"Drama,Mystery,Thriller",8.1,"939,659",Certified-Fresh,86,158,Upright,90,1036685,38,136,22
+382,Gladiator,2000,"Douglas Wick, David Franzoni, and Branko Lustig",Winner,2000,155,"Action,Adventure,Drama",8.5,"1,393,352",Certified-Fresh,77,199,Upright,87,34128168,49,153,46
+383,Chocolat,2000,"David Brown, Kit Golden, and Leslie Holleran",Nominee,2000,121,"Drama,Romance",7.2,"183,002",Fresh,62,117,Upright,83,328939,34,73,44
+384,"Crouching Tiger, Hidden Dragon",2000,"William Kong, Hsu Li-kong, and Ang Lee",Nominee,2000,120,"Action,Adventure,Fantasy",7.8,"259,991",Certified-Fresh,87,159,Upright,86,250000,43,155,4
+385,Erin Brockovich,2000,"Danny DeVito, Michael Shamberg, and Stacey Sher",Nominee,2000,131,"Biography,Drama",7.4,"184,808",Certified-Fresh,84,146,Upright,81,418647,38,123,23
+386,Traffic,2000,"Edward Zwick, Marshall Herskovitz, and Laura Bickford",Nominee,2000,147,"Crime,Drama,Thriller",7.6,"201,093",Certified-Fresh,93,161,Upright,85,190385,40,149,12
+387,A Beautiful Mind,2001,Brian Grazer and Ron Howard,Winner,2001,135,"Biography,Drama",8.2,"878,511",Certified-Fresh,74,213,Upright,93,490923,47,158,55
+388,Gosford Park,2001,"Robert Altman, Bob Balaban, and David Levy",Nominee,2001,131,"Comedy,Drama,Mystery",7.2,"83,531",Certified-Fresh,86,160,Upright,78,48527,36,138,22
+389,In the Bedroom,2001,"Graham Leader, Ross Katz, and Todd Field",Nominee,2001,131,"Crime,Drama",7.4,"39,427",Certified-Fresh,93,138,Upright,81,20122,32,129,9
+390,The Lord of the Rings: The Fellowship of the Ring,2001,"Peter Jackson, Fran Walsh, and Barrie M. Osborne",Nominee,2001,178,"Action,Adventure,Drama",8.8,"1,724,755",Certified-Fresh,91,233,Upright,95,1355751,48,213,20
+391,Moulin Rouge!,2001,"Martin Brown, Baz Luhrmann, and Fred Baron",Nominee,2001,127,"Drama,Musical,Romance",7.6,"273,077",Certified-Fresh,76,199,Upright,89,505231,44,151,48
+392,Chicago,2002,Martin Richards,Winner,2002,113,"Comedy,Crime,Musical",7.2,"221,622",Certified-Fresh,86,257,Upright,83,439544,55,220,37
+393,Gangs of New York,2002,Alberto Grimaldi and Harvey Weinstein,Nominee,2002,167,"Crime,Drama",7.5,"418,948",Certified-Fresh,73,211,Upright,81,294323,48,155,56
+394,The Hours,2002,Scott Rudin and Robert Fox,Nominee,2002,110,"Drama,Romance",7.5,"127,773",Certified-Fresh,80,194,Upright,84,85936,42,155,39
+395,The Lord of the Rings: The Two Towers,2002,"Barrie M. Osborne, Fran Walsh, and Peter Jackson",Nominee,2002,179,"Action,Adventure,Drama",8.7,"1,540,135",Certified-Fresh,95,255,Upright,95,1341428,52,243,12
+396,The Pianist,2002,"Roman Polanski, Robert Benmussa, and Alain Sarde",Nominee,2002,150,"Biography,Drama,Music",8.5,"766,841",Certified-Fresh,95,182,Upright,96,253230,40,173,9
+397,The Lord of the Rings: The Return of the King,2003,"Barrie M. Osborne, Peter Jackson, and Fran Walsh",Winner,2003,201,"Action,Adventure,Drama",8.9,"1,703,481",Certified-Fresh,93,275,Upright,86,34679773,53,257,18
+398,Lost in Translation,2003,Ross Katz and Sofia Coppola,Nominee,2003,102,"Comedy,Drama",7.7,"431,381",Certified-Fresh,95,232,Upright,85,250000,54,221,11
+399,Master and Commander: The Far Side of the World,2003,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson",Nominee,2003,138,"Action,Adventure,Drama",7.4,"210,599",Certified-Fresh,85,217,Upright,80,141077,45,184,33
+400,Mystic River,2003,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",Nominee,2003,138,"Crime,Drama,Mystery",7.9,"435,337",Certified-Fresh,88,206,Upright,89,203535,49,181,25
+401,Seabiscuit,2003,"Kathleen Kennedy, Frank Marshall, and Gary Ross",Nominee,2003,140,"Drama,History,Sport",7.3,"70,147",Certified-Fresh,78,205,Upright,76,118428,47,159,46
+402,Million Dollar Baby,2004,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",Winner,2004,132,"Drama,Sport",8.1,"655,679",Certified-Fresh,91,268,Upright,90,405053,58,243,25
+403,The Aviator,2004,Michael Mann and Graham King,Nominee,2004,170,"Biography,Drama",7.5,"344,901",Certified-Fresh,86,224,Upright,79,207578,50,193,31
+404,Finding Neverland,2004,Richard N. Gladstein and Nellie Bellflower,Nominee,2004,106,"Biography,Drama,Family",7.7,"202,139",Certified-Fresh,83,208,Upright,87,465413,46,172,36
+405,Ray,2004,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",Nominee,2004,152,"Biography,Drama,Music",7.7,"142,545",Certified-Fresh,80,206,Upright,87,214558,43,164,42
+406,Sideways,2004,Michael London,Nominee,2004,127,"Comedy,Drama,Romance",7.5,"184,511",Certified-Fresh,97,233,Upright,79,197689,50,225,8
+407,Crash,2005,Paul Haggis and Cathy Schulman,Winner,2004,112,"Crime,Drama,Thriller",7.7,"426,775",Certified-Fresh,74,241,Upright,88,442331,53,179,62
+408,Brokeback Mountain,2005,Diana Ossana and James Schamus,Nominee,2005,134,"Drama,Romance",7.7,"337,000",Certified-Fresh,87,246,Upright,82,519853,52,215,31
+409,Capote,2005,"Caroline Baron, William Vince, and Michael Ohoven",Nominee,2005,114,"Biography,Crime,Drama",7.3,"128,822",Certified-Fresh,90,196,Upright,82,115946,43,176,20
+410,"Good Night, and Good Luck",2005,Grant Heslov,Nominee,2005,93,"Biography,Drama,History",7.4,"95,865",Certified-Fresh,93,226,Upright,83,100000,59,211,15
+411,Munich,2005,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel",Nominee,2005,164,"Action,Drama,History",7.5,"218,462",Certified-Fresh,78,210,Upright,83,330206,42,163,47
+412,The Departed,2006,Graham King,Winner,2006,151,"Crime,Drama,Thriller",8.5,"1,235,906",Certified-Fresh,91,280,Upright,94,737806,60,254,26
+413,Babel,2006,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik",Nominee,2006,143,Drama,7.4,"295,061",Fresh,69,200,Upright,77,377310,50,138,62
+414,Letters from Iwo Jima,2006,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",Nominee,2006,141,"Action,Adventure,Drama",7.9,"157,732",Certified-Fresh,91,202,Upright,86,341085,53,184,18
+415,Little Miss Sunshine,2006,"David T. Friendly, Peter Saraf, and Marc Turtletaub",Nominee,2006,101,"Comedy,Drama",7.8,"453,506",Certified-Fresh,91,218,Upright,91,427127,54,198,20
+416,The Queen,2006,"Andy Harries, Christine Langan, and Tracey Seaward",Nominee,2006,103,"Biography,Drama,History",7.3,"107,000",Certified-Fresh,96,198,Upright,76,175607,51,191,7
+417,No Country for Old Men,2007,"Scott Rudin, Joel Coen, and Ethan Coen",Winner,2007,122,"Crime,Drama,Thriller",8.1,"896,630",Certified-Fresh,93,287,Upright,86,399154,64,268,19
+418,Atonement,2007,"Tim Bevan, Eric Fellner, and Paul Webster",Nominee,2007,123,"Drama,Mystery,Romance",7.8,"261,609",Certified-Fresh,83,217,Upright,80,227149,54,181,36
+419,Juno,2007,"Lianne Halfon, Mason Novick, and Russell Smith",Nominee,2007,96,"Comedy,Drama",7.4,"502,296",Certified-Fresh,94,216,Upright,88,549481,43,203,13
+420,Michael Clayton,2007,"Jennifer Fox, Kerry Orent, and Sydney Pollack",Nominee,2007,119,"Crime,Drama,Mystery",7.2,"160,164",Certified-Fresh,91,203,Upright,69,299971,52,184,19
+421,There Will Be Blood,2007,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",Nominee,2007,158,Drama,8.2,"542,278",Certified-Fresh,92,236,Upright,86,255192,50,217,20
+422,Slumdog Millionaire,2008,Christian Colson,Winner,2008,120,"Drama,Romance",8,"816,485",Certified-Fresh,91,288,Upright,90,1155769,53,263,25
+423,The Curious Case of Benjamin Button,2008,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin",Nominee,2008,166,"Drama,Fantasy,Romance",7.8,"611,518",Certified-Fresh,72,254,Upright,80,690720,55,182,72
+424,Frost/Nixon,2008,"Ron Howard, Brian Grazer, and Eric Fellner",Nominee,2008,122,"Biography,Drama,History",7.7,"105,602",Certified-Fresh,93,256,Upright,88,109836,58,237,19
+425,Milk,2008,Bruce Cohen and Dan Jinks,Nominee,2008,128,"Biography,Drama",7.5,"168,756",Certified-Fresh,93,244,Upright,89,178019,55,226,18
+426,The Reader,2008,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, and Redmond Morris",Nominee,2008,124,"Drama,Romance",7.6,"235,605",Fresh,63,202,Upright,79,206910,51,127,75
+427,The Hurt Locker,2009,"Kathryn Bigelow, Mark Boal, Nicolas Chartier, and Greg Shapiro",Winner,2008,131,"Drama,Thriller,War",7.5,"433,326",Certified-Fresh,97,289,Upright,84,50000,77,279,10
+428,Avatar,2009,James Cameron and Jon Landau,Nominee,2009,162,"Action,Adventure,Fantasy",7.8,"1,153,124",Certified-Fresh,82,317,Upright,82,1382566,63,259,58
+429,The Blind Side,2009,"Gil Netter, Andrew A. Kosove, and Broderick Johnson",Nominee,2009,129,"Biography,Drama,Sport",7.6,"305,982",Fresh,66,204,Upright,85,431835,39,134,70
+430,District 9,2009,Peter Jackson and Carolynne Cunningham,Nominee,2009,112,"Action,Sci-Fi,Thriller",7.9,"653,215",Certified-Fresh,90,312,Upright,82,1178535,56,280,32
+431,An Education,2009,Finola Dwyer and Amanda Posey,Nominee,2009,100,Drama,7.3,"131,326",Certified-Fresh,94,195,Upright,80,54962,46,183,12
+432,Inglourious Basterds,2009,Lawrence Bender,Nominee,2009,153,"Adventure,Drama,War",8.3,"1,326,791",Certified-Fresh,89,329,Upright,88,775878,65,292,37
+433,Precious: Based on the Novel 'Push' by Sapphire,2009,"Lee Daniels, Sarah Siegel-Magness, and Gary Magness",Nominee,2009,110,Drama,7.3,"107,998",Certified-Fresh,92,238,Upright,81,100000,70,218,20
+434,A Serious Man,2009,Joel Coen and Ethan Coen,Nominee,2009,106,"Comedy,Drama",7.1,"137,770",Certified-Fresh,90,223,Upright,68,63118,55,200,23
+435,Up,2009,Jonas Rivera,Nominee,2009,96,"Animation,Adventure,Comedy",8.2,"971,845",Certified-Fresh,98,296,Upright,90,1204027,59,289,7
+436,Up in the Air,2009,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman",Nominee,2009,109,"Comedy,Drama,Romance",7.4,"325,743",Certified-Fresh,91,285,Upright,79,228473,60,258,27
+437,The King's Speech,2010,"Iain Canning, Emile Sherman, and Gareth Unwin",Winner,2010,118,"Biography,Drama,History",8,"655,187",Certified-Fresh,94,296,Upright,92,144575,60,279,17
+438,127 Hours,2010,"Danny Boyle, John Smithson, and Christian Colson",Nominee,2010,94,"Biography,Drama",7.5,"359,243",Certified-Fresh,93,235,Upright,85,95883,47,219,16
+439,Black Swan,2010,"Scott Franklin, Mike Medavoy, and Brian Oliver",Nominee,2010,108,"Drama,Thriller",8,"721,688",Certified-Fresh,85,309,Upright,84,178032,54,262,47
+440,The Fighter,2010,"David Hoberman, Todd Lieberman, and Mark Wahlberg",Nominee,2010,116,"Biography,Drama,Sport",7.8,"350,469",Certified-Fresh,90,250,Upright,89,121498,49,226,24
+441,Inception,2010,Christopher Nolan and Emma Thomas,Nominee,2010,148,"Action,Adventure,Sci-Fi",8.8,"2,160,498",Certified-Fresh,87,357,Upright,91,571078,65,310,47
+442,The Kids Are All Right,2010,"Gary Gilbert, Jeffrey Levy-Hinte, and Celine Rattray",Nominee,2010,106,"Comedy,Drama,Romance",7,"127,959",Certified-Fresh,92,224,Upright,74,63588,49,207,17
+443,The Social Network,2010,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin",Nominee,2010,120,"Biography,Drama",7.7,"651,516",Certified-Fresh,96,321,Upright,86,204126,59,307,14
+444,Toy Story 3,2010,Darla K. Anderson,Nominee,2010,103,"Animation,Adventure,Comedy",8.2,"783,665",Certified-Fresh,98,307,Upright,89,607537,57,302,5
+445,True Grit,2010,"Joel Coen, Ethan Coen, and Scott Rudin",Nominee,2010,110,"Drama,Western",7.6,"322,030",Certified-Fresh,96,272,Upright,85,158268,56,260,12
+446,Winter's Bone,2010,Alix Madigan and Anne Rosellini,Nominee,2010,100,"Drama,Mystery",7.2,"138,998",Certified-Fresh,94,174,Upright,76,51756,44,164,10
+447,The Artist,2011,Thomas Langmann,Winner,2011,100,"Comedy,Drama,Romance",7.9,"235,457",Certified-Fresh,95,317,Upright,87,58629,64,302,15
+448,The Descendants,2011,"Jim Burke, Alexander Payne, and Jim Taylor",Nominee,2011,115,"Comedy,Drama",7.3,"236,381",Certified-Fresh,88,265,Upright,79,69968,56,233,32
+449,Extremely Loud & Incredibly Close,2011,Scott Rudin,Nominee,2011,129,"Adventure,Drama,Mystery",6.9,"99,514",Rotten,45,190,Upright,61,50000,62,86,104
+450,The Help,2011,"Brunson Green, Chris Columbus, and Michael Barnathan",Nominee,2011,146,Drama,8,"438,666",Certified-Fresh,76,227,Upright,89,107868,53,173,54
+451,Hugo,2011,Graham King and Martin Scorsese,Nominee,2011,126,"Drama,Family,Fantasy",7.5,"312,181",Certified-Fresh,93,227,Upright,78,82865,49,211,16
+452,Midnight in Paris,2011,Letty Aronson and Stephen Tenenbaum,Nominee,2011,94,"Comedy,Fantasy,Romance",7.7,"401,524",Certified-Fresh,93,224,Upright,83,82553,56,208,16
+453,Moneyball,2011,"Michael De Luca, Rachael Horovitz, and Brad Pitt",Nominee,2011,133,"Biography,Drama,Sport",7.6,"389,329",Certified-Fresh,94,266,Upright,86,91772,55,250,16
+454,The Tree of Life,2011,"Sarah Green, Bill Pohlad, Dede Gardner, and Grant Hill",Nominee,2011,139,"Drama,Fantasy",6.8,"171,734",Certified-Fresh,85,286,Upright,60,60899,58,242,44
+455,War Horse,2011,Steven Spielberg and Kathleen Kennedy,Nominee,2011,146,"Action,Adventure,Drama",7.2,"151,533",Certified-Fresh,75,237,Upright,74,69714,50,177,60
+456,Argo,2012,"Grant Heslov, Ben Affleck, and George Clooney",Winner,2012,120,"Biography,Drama,Thriller",7.7,"588,984",Certified-Fresh,96,356,Upright,90,208711,63,341,15
+457,Amour,2012,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz",Nominee,2012,127,Drama,7.9,"96,258",Certified-Fresh,93,223,Upright,82,20897,59,207,16
+458,Beasts of the Southern Wild,2012,"Dan Janvey, Josh Penn, and Michael Gottwald",Nominee,2012,93,"Adventure,Drama,Fantasy",7.3,"82,051",Certified-Fresh,87,204,Upright,76,39335,53,177,27
+459,Django Unchained,2012,"Stacey Sher, Reginald Hudlin, and Pilar Savone",Nominee,2012,165,"Drama,Western",8.4,"1,420,092",Certified-Fresh,87,288,Upright,91,429231,55,250,38
+460,Life of Pi,2012,"Gil Netter, Ang Lee, and David Womark",Nominee,2012,127,"Adventure,Drama,Fantasy",7.9,"598,436",Certified-Fresh,87,251,Upright,84,169196,54,218,33
+461,Lincoln,2012,Steven Spielberg and Kathleen Kennedy,Nominee,2011,118,"Crime,Drama,Mystery",7.3,"223,752",Certified-Fresh,89,285,Upright,81,100000,69,253,32
+462,Les Misérables,2012,"Tim Bevan, Eric Fellner, Debra Hayward, and Cameron Mackintosh",Nominee,2012,158,"Drama,History,Musical",7.6,"317,030",Fresh,69,255,Upright,79,265259,49,177,78
+463,Silver Linings Playbook,2012,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",Nominee,2012,122,"Comedy,Drama,Romance",7.7,"679,022",Certified-Fresh,92,256,Upright,86,260499,57,236,21
+464,Zero Dark Thirty,2012,"Mark Boal, Kathryn Bigelow, and Megan Ellison",Nominee,2012,157,"Drama,History,Thriller",7.4,"283,119",Certified-Fresh,91,303,Upright,80,100000,74,276,27
+465,12 Years a Slave,2013,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",Winner,2013,134,"Biography,Drama,History",8.1,"662,741",Certified-Fresh,95,365,Upright,90,140313,64,348,17
+466,American Hustle,2013,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon",Nominee,2013,138,"Crime,Drama",7.2,"460,918",Certified-Fresh,92,289,Upright,74,175937,55,267,22
+467,Captain Phillips,2013,"Scott Rudin, Dana Brunetti, and Michael De Luca",Nominee,2013,134,"Adventure,Biography,Crime",7.8,"436,364",Certified-Fresh,93,274,Upright,89,152496,59,256,19
+468,Dallas Buyers Club,2013,Robbie Brenner and Rachel Winter,Nominee,2013,117,"Biography,Drama",8,"459,404",Certified-Fresh,93,257,Upright,91,92788,59,239,19
+469,Gravity,2013,Alfonso Cuarón and David Heyman,Nominee,2013,91,"Drama,Sci-Fi,Thriller",7.7,"789,470",Certified-Fresh,96,354,Upright,80,303162,64,339,15
+470,Her,2013,"Megan Ellison, Spike Jonze, and Vincent Landay",Nominee,2013,126,"Drama,Romance,Sci-Fi",8,"565,149",Certified-Fresh,95,278,Upright,82,101535,53,263,15
+471,Nebraska,2013,Albert Berger and Ron Yerxa,Nominee,2013,115,"Adventure,Comedy,Drama",7.7,"115,031",Certified-Fresh,91,247,Upright,83,44798,56,225,23
+472,Philomena,2013,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",Nominee,2013,98,"Biography,Comedy,Drama",7.6,"96,771",Certified-Fresh,90,198,Upright,89,52399,51,179,19
+473,The Wolf of Wall Street,2013,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff",Nominee,2013,180,"Biography,Crime,Drama",8.2,"1,257,166",Certified-Fresh,80,284,Upright,83,180827,55,226,58
+474,Birdman or (The Unexpected Virtue of Ignorance),2014,"Alejandro G. Iñárritu, John Lesher, and James W. Skotchdopole",Winner,2014,119,"Comedy,Drama",7.7,"599,240",Certified-Fresh,91,356,Upright,78,50000,87,324,32
+475,American Sniper,2014,"Clint Eastwood, Andrew Lazar, Robert Lorenz, Bradley Cooper, and Peter Morgan",Nominee,2014,133,"Action,Biography,Drama",7.3,"455,885",Certified-Fresh,72,299,Upright,84,100000,72,216,83
+476,Boyhood,2014,Richard Linklater and Cathleen Sutherland,Nominee,2014,165,Drama,7.9,"343,822",Certified-Fresh,97,321,Upright,81,89725,69,311,10
+477,The Grand Budapest Hotel,2014,"Wes Anderson, Scott Rudin, Steven M. Rales, and Jeremy Dawson",Nominee,2014,99,"Adventure,Comedy,Crime",8.1,"741,950",Certified-Fresh,91,305,Upright,86,97547,64,280,26
+478,The Imitation Game,2014,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman",Nominee,2014,114,"Biography,Drama,Thriller",8,"714,452",Certified-Fresh,89,281,Upright,91,103920,60,251,30
+479,Selma,2014,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner",Nominee,2014,128,"Biography,Drama,History",7.5,"89,059",Certified-Fresh,99,308,Upright,86,61482,61,304,4
+480,The Theory of Everything,2014,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten",Nominee,2014,123,"Biography,Drama,Romance",7.7,"421,764",Certified-Fresh,80,270,Upright,84,75918,60,215,55
+481,Whiplash,2014,"Jason Blum, Helen Estabrook, and David Lancaster",Nominee,2014,106,"Drama,Music",8.5,"758,911",Certified-Fresh,94,296,Upright,94,70212,67,277,19
+482,Spotlight,2015,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",Winner,2015,129,"Biography,Crime,Drama",8.1,"440,413",Certified-Fresh,97,367,Upright,93,70385,59,355,12
+483,The Big Short,2015,"Dede Gardner, Jeremy Kleiner, and Brad Pitt",Nominee,2015,130,"Biography,Comedy,Drama",7.8,"387,192",Certified-Fresh,88,322,Upright,88,69098,56,284,38
+484,Bridge of Spies,2015,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",Nominee,2015,142,"Drama,History,Thriller",7.6,"298,091",Certified-Fresh,90,307,Upright,87,65466,58,278,30
+485,Brooklyn,2015,Finola Dwyer and Amanda Posey,Nominee,2015,117,"Drama,Romance",7.5,"135,972",Certified-Fresh,97,269,Upright,87,46857,51,261,8
+486,Mad Max: Fury Road,2015,Doug Mitchell and George Miller,Nominee,2015,120,"Action,Adventure,Sci-Fi",8.1,"922,840",Certified-Fresh,97,422,Upright,85,128344,59,408,14
+487,The Martian,2015,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam",Nominee,2015,144,"Adventure,Drama,Sci-Fi",8,"791,919",Certified-Fresh,91,374,Upright,91,131656,60,340,34
+488,The Revenant,2015,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon",Nominee,2015,156,"Action,Adventure,Drama",8,"738,208",Certified-Fresh,78,397,Upright,84,105270,53,311,86
+489,Room,2015,Ed Guiney,Nominee,2015,118,"Drama,Thriller",8.1,"391,182",Certified-Fresh,93,312,Upright,93,49668,55,292,21
+490,Moonlight,2016,"Adele Romanski, Dede Gardner, and Jeremy Kleiner",Winner,2016,111,Drama,7.4,"287,563",Certified-Fresh,98,384,Upright,79,45533,63,378,7
+491,Arrival,2016,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",Nominee,2016,116,"Drama,Sci-Fi",7.9,"629,568",Certified-Fresh,94,426,Upright,82,83315,59,402,24
+492,Fences,2016,"Scott Rudin, Denzel Washington, and Todd Black",Nominee,2016,139,Drama,7.2,"102,639",Certified-Fresh,92,265,Upright,75,36228,54,243,22
+493,Hacksaw Ridge,2016,Bill Mechanic and David Permut,Nominee,2016,139,"Biography,Drama,History",8.1,"464,504",Certified-Fresh,84,277,Upright,91,55594,54,235,43
+494,Hell or High Water,2016,Carla Hacken and Julie Yorn,Nominee,2016,102,"Action,Crime,Drama",7.6,"213,325",Certified-Fresh,97,280,Upright,88,40088,54,272,8
+495,Hidden Figures,2016,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams, and Theodore Melfi",Nominee,2016,127,"Biography,Drama,History",7.8,"211,233",Certified-Fresh,93,322,Upright,93,50000,70,300,22
+496,La La Land,2016,"Fred Berger, Jordan Horowitz, and Marc Platt",Nominee,2016,128,"Comedy,Drama,Music",8,"534,405",Certified-Fresh,91,458,Upright,81,71314,66,415,43
+497,Lion,2016,"Emile Sherman, Iain Canning, and Angie Fielder",Nominee,2016,118,"Biography,Drama",8,"223,804",Certified-Fresh,84,264,Upright,91,39787,49,223,41
+498,Manchester by the Sea,2016,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",Nominee,2016,137,Drama,7.8,"260,159",Certified-Fresh,96,347,Upright,78,50194,52,333,14
+499,The Shape of Water,2017,Guillermo del Toro and J. Miles Dale,Winner,2017,123,"Adventure,Drama,Fantasy",7.3,"391,523",Certified-Fresh,92,448,Upright,72,25784,59,414,34
+500,Call Me by Your Name,2017,"Peter Spears, Luca Guadagnino, Emilie Georges, and Marco Morabito",Nominee,2017,132,"Drama,Romance",7.9,"234,177",Certified-Fresh,94,363,Upright,86,10000,80,342,21
+501,Darkest Hour,2017,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski",Nominee,2017,125,"Biography,Drama,History",7.4,"184,502",Certified-Fresh,84,312,Upright,82,14004,52,262,51
+502,Dunkirk,2017,Emma Thomas and Christopher Nolan,Nominee,2017,106,"Action,Drama,History",7.8,"591,901",Certified-Fresh,92,453,Upright,81,68676,61,419,34
+503,Get Out,2017,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Nominee,2017,104,"Horror,Mystery,Thriller",7.7,"526,587",Certified-Fresh,98,386,Upright,86,75461,63,380,7
+504,Lady Bird,2017,"Scott Rudin, Eli Bush, and Evelyn O'Neill",Nominee,2017,94,"Comedy,Drama",7.4,"258,867",Certified-Fresh,99,391,Upright,79,22610,56,388,4
+505,Phantom Thread,2017,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison, and Daniel Lupi",Nominee,2017,130,"Drama,Romance",7.5,"119,413",Certified-Fresh,91,355,Upright,71,5000,81,323,32
+506,The Post,2017,"Amy Pascal, Steven Spielberg, and Kristie Macosko Krieger",Nominee,2017,116,Drama,7.2,"142,630",Certified-Fresh,88,409,Upright,73,10000,83,360,49
+507,"Three Billboards Outside Ebbing, Missouri",2017,"Graham Broadbent, Pete Czernin, and Martin McDonagh",Nominee,2017,115,"Comedy,Crime,Drama",8.1,"463,268",Certified-Fresh,90,405,Upright,87,22869,59,366,39
+508,Green Book,2018,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",Winner,2018,130,"Biography,Comedy,Drama",8.2,"422,669",Certified-Fresh,77,354,Upright,91,10093,49,274,80
+509,Black Panther,2018,Kevin Feige,Nominee,2018,134,"Action,Adventure,Sci-Fi",7.3,"671,956",Certified-Fresh,96,512,Upright,79,88211,60,495,18
+510,BlacKkKlansman,2018,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee",Nominee,2018,135,"Biography,Comedy,Crime",7.5,"240,028",Certified-Fresh,96,436,Upright,83,11251,63,418,18
+511,Bohemian Rhapsody,2018,Graham King,Nominee,2018,134,"Biography,Drama,Music",7.9,"482,597",Fresh,60,403,Upright,85,23296,45,243,160
+512,The Favourite,2018,"Ceci Dempsey, Ed Guiney, Lee Magiday, and Yorgos Lanthimos",Nominee,2018,119,"Biography,Comedy,Drama",7.5,"183,744",Certified-Fresh,93,405,Upright,69,7189,52,378,27
+513,Roma,2018,Gabriela Rodríguez and Alfonso Cuarón,Nominee,2018,135,Drama,7.7,"147,705",Certified-Fresh,96,387,Upright,72,5521,56,370,17
+514,A Star Is Born,2018,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Nominee,2018,136,"Drama,Music,Romance",7.6,"354,157",Certified-Fresh,90,517,Upright,79,20442,62,466,52
+515,Vice,2018,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",Nominee,2018,132,"Biography,Comdey,Drama",7.2,"132,014",Fresh,65,359,Upright,60,5061,47,234,125
+516,Parasite,2019,Kwak Sin-ae and Bong Joon-ho,Winner,2019,132,"Comedy,Drama,Thriller",8.6,"651,517",Certified-Fresh,98,463,Upright,90,5000,83,456,7
+517,1917,2019,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren, and Callum McDougall",Nominee,2019,119,"Action,Drama,War",8.3,"485,648",Certified-Fresh,89,461,Upright,88,25000,76,408,53
+518,Ford v Ferrari,2019,"Peter Chernin, Jenno Topping, and James Mangold",Nominee,2019,152,"Action,Biography,Drama",8.1,"331,665",Certified-Fresh,92,354,Upright,98,10000,58,326,28
+519,The Irishman,2019,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff",Nominee,2019,209,"Biography,Crime,Drama",7.8,"349,303",Certified-Fresh,96,439,Upright,86,1057,53,421,19
+520,Jojo Rabbit,2019,"Carthew Neal, Taika Waititi, and Chelsea Winstanley",Nominee,2019,108,"Comedy,Drama,War",7.9,"335,856",Certified-Fresh,80,422,Upright,94,5000,85,337,85
+521,Joker,2019,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",Nominee,2019,122,"Crime,Drama,Thriller",8.4,"1,056,051",Fresh,68,574,Upright,88,66303,56,393,182
+522,Little Women,2019,Amy Pascal,Nominee,2019,135,"Drama,Romance",7.8,"163,410",Certified-Fresh,95,425,Upright,92,10000,86,403,22
+523,Marriage Story,2019,Noah Baumbach and David Heyman,Nominee,2019,137,"Comedy,Drama,Romance",7.9,"270,304",Certified-Fresh,94,381,Upright,85,184,48,359,22
+524,Once Upon a Time in Hollywood,2019,"David Heyman, Shannon McIntosh, and Quentin Tarantino",Nominee,2019,161,"Comedy,Drama",7.6,"628,233",Certified-Fresh,85,571,Upright,70,25000,100,487,84
+525,Nomadland,2020,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, and Chloé Zhao",Nominee,2020,107,Drama,7.4,"123,041",Certified-Fresh,93,419,Upright,82,500,85,391,28
+526,The Father,2020,"David Parfitt, Jean-Louis Livi, and Philippe Carcassonne",Nominee,2020,97,Drama,8.3,"89,693",Certified-Fresh,98,281,Upright,92,1000,67,275,6
+527,Judas and the Black Messiah,2020,"Shaka King, Charles D. King, and Ryan Coogler",Nominee,2021,126,"Biography,Drama,History",7.5,"58,996",Certified-Fresh,96,340,Upright,95,500,72,328,12
+528,Mank,2020,"Ceán Chaffin, Eric Roth, and Douglas Urbanski",Nominee,2020,131,"Biography,Comedy,Drama",6.9,"65,380",Certified-Fresh,83,339,Spilled,59,1000,69,280,59
+529,Minari,2020,Christina Oh,Nominee,2020,115,Drama,7.5,"57,976",Certified-Fresh,98,310,Upright,87,1000,70,303,7
+530,Promising Young Woman,2020,"Ben Browning, Ashley Fox, Emerald Fennell, and Josey McNamara",Nominee,2020,113,"Crime,Drama,Thriller",7.5,"122,269",Certified-Fresh,90,405,Upright,87,500,70,365,40
+531,Sound of Metal,2020,Bert Hamelinck and Sacha Ben Harroche,Nominee,2019,120,"Drama,Music",7.8,"102,807",Certified-Fresh,97,275,Upright,90,1000,53,267,8
+532,The Trial of the Chicago 7,2020,Marc Platt and Stuart M. Besser,Nominee,2020,129,"Drama,History,Thriller",7.8,"156,283",Certified-Fresh,89,331,Upright,90,2500,68,294,37
